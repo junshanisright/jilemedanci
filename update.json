@@ -1,8 +1,8 @@
 {
-  "versionCode": 93038,
-  "versionName": "1.930.38",
-  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v1.930.38/Lexis-Cilin-1.930.38-release.apk",
-  "notes": "词库大改造：① 全部词性统一为英文标注（n./adj./v. 等，不再用中文）；② 含义的多个义项统一用「；」分隔，词条详情页不再一行一个意思，腾出更多空间；③ 词源只保留真正难词的详解，基础词不再挂「拉丁」这类笼统标签；④ 拉丁语/古希腊语含义里的英文释义全部改写为中文；⑤ 古希腊语名词补上定冠词 ὁ/ἡ/τό，拉丁语与梵语标注语法性别（这两门语言语法上无冠词）。",
-  "sha256": "ab4aef269683d6cd7590dd69f88d87751fa4e457e6383213f06ad33be0949ed4",
+  "versionCode": 93039,
+  "versionName": "1.930.39",
+  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v1.930.39/Lexis-Cilin-1.930.39-release.apk",
+  "notes": "字体改造：① 音标整串（含其中的拉丁字母）统一 Gentium，中文用 OPPO Sans，数字与字母用 Google Sans，日文用 Noto Sans JP；② 日语词条整体切到日文字形变体（中日汉字共用码点、只能靠语言上下文区分；Noto Sans JP 缺的字如简体「词」回退 OPPO）；③ 修复 Typography 有 6 个槽位（含 labelMedium/bodyLarge）此前未纳入项目字体，首页、统计页、背单词页上这些样式的中文一直走系统字体；④ 导入页的格式说明与预览不再用系统等宽体；⑤ 字体改为不压缩存储进 APK（AAPT2 默认压缩 .ttf，而压缩字体无法 mmap、运行期会解压进堆外内存且每条加载通道各留一份永不释放），安装包因此由 6 MB 增至 16.7 MB。",
+  "sha256": "5df7794a5cbef490b987c4c2b219de123289facf4e375658f16a6c3b99cfeb59",
   "force": false
 }
