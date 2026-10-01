@@ -1,8 +1,8 @@
 {
-  "versionCode": 93037,
-  "versionName": "1.930.37",
-  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v1.930.37/Lexis-Cilin-1.930.37-release.apk",
-  "notes": "首个正式版（release 签名 + R8 缩码）：安装包从 30.5 MB 降到 5.8 MB。搜索改为跨语种并标注语言；首页统计改为全部语种汇总；等级筛选默认不含「小李专属」词。",
-  "sha256": "c89cd65fe9ead13828123d898047f9b087084ba1660e6f3e3eaec5a546a9df68",
+  "versionCode": 93038,
+  "versionName": "1.930.38",
+  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v1.930.38/Lexis-Cilin-1.930.38-release.apk",
+  "notes": "词库大改造：① 全部词性统一为英文标注（n./adj./v. 等，不再用中文）；② 含义的多个义项统一用「；」分隔，词条详情页不再一行一个意思，腾出更多空间；③ 词源只保留真正难词的详解，基础词不再挂「拉丁」这类笼统标签；④ 拉丁语/古希腊语含义里的英文释义全部改写为中文；⑤ 古希腊语名词补上定冠词 ὁ/ἡ/τό，拉丁语与梵语标注语法性别（这两门语言语法上无冠词）。",
+  "sha256": "ab4aef269683d6cd7590dd69f88d87751fa4e457e6383213f06ad33be0949ed4",
   "force": false
 }
