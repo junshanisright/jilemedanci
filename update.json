@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100106,
-  "versionName": "1.1001.6",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.6/Lexis-Cilin-1.1001.6-release.apk",
-  "notes": "多镜像下载回退 + 断点续传：修复「能看到新版本但下载不动」。根因是安装包唯一走 release-assets.githubusercontent.com（实测 18MB 需 458 秒 / 39KB/s，且会被中间设备在 10 秒处整体切断）。清单新增 apkMirrors，App 依次尝试 gh-proxy.com → ghproxy.net → GitHub 直连；支持 Range 断点续传（半成品按源地址哈希分开存放，不跨源拼接）；某源太慢且还有备用源时主动换源（已下过半则不再换）。下载源在界面上可见（第 n/m 个）。发布侧新增判据 D 校验镜像结构。全量单测 507/507 通过。",
-  "sha256": "6c55cf29c602ce24c7ccdb83e55731504be177b311dad783f3ff7ccda6992b94",
+  "versionCode": 26100107,
+  "versionName": "1.1001.7",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.7/Lexis-Cilin-1.1001.7-release.apk",
+  "notes": "音标修复与补齐 + 释义中文化\n\n· 修掉 499 条被贴错词的音标（法语 480、希腊语 19）——例如 le 之前显示 /le/（那是 lé 的读音），现在是对的 /lə/；tête、après、porté、mais 等同理。\n· 法语补上 702 条音标（l'homme、d'un、j'avais、qu'il 这类省音形），法语覆盖率 86.8% → 93.9%。\n· 希腊语、拉丁语里残留的英文释义已全部改为中文。\n· 打分按钮最左那档「重来」改名为「不会」（行为不变）。",
+  "sha256": "770f3056e33c404a94bee36f134360acc7975045f29041c43e2912ee49da122c",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.6/Lexis-Cilin-1.1001.6-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.6/Lexis-Cilin-1.1001.6-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.7/Lexis-Cilin-1.1001.7-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.7/Lexis-Cilin-1.1001.7-release.apk"
   ]
 }
