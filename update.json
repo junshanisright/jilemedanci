@@ -1,0 +1,8 @@
+{
+  "versionCode": 93037,
+  "versionName": "1.930.37",
+  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v1.930.37/Lexis-Cilin-1.930.37-release.apk",
+  "notes": "首个正式版（release 签名 + R8 缩码）：安装包从 30.5 MB 降到 5.8 MB。搜索改为跨语种并标注语言；首页统计改为全部语种汇总；等级筛选默认不含「小李专属」词。",
+  "sha256": "c89cd65fe9ead13828123d898047f9b087084ba1660e6f3e3eaec5a546a9df68",
+  "force": false
+}
