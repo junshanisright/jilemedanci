@@ -1,8 +1,8 @@
 {
-  "versionCode": 93040,
-  "versionName": "1.930.40",
-  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v1.930.40/Lexis-Cilin-1.930.40-release.apk",
-  "notes": "字体修复与数据错字修复：① 修掉音标字形被放大 2.05 倍并重叠的缺陷（源字体 upem 重标后残留的 TrueType 提示字节码未清除，已改为构建期一律去提示）；② 梵语 IAST 变音字母（ṇ ḥ ṭ ḍ ṃ ḷ ṛ）原为 Gentium 斜体、在正体词里凸出斜字（683 行），正文改用 Gentium Regular，斜体只留给音标；③ 修正德语词库三处 OCR 错字（一窍不通 / 缺少干劲 / 给马套缰）与一处「人口→入口」。",
-  "sha256": "89132bd76bc212cd21232ba6f58be39610c52c237d818eecec00880ac839f24b",
+  "versionCode": 26100101,
+  "versionName": "1.1001.1",
+  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.1/Lexis-Cilin-1.1001.1-release.apk",
+  "notes": "① 德语词库变音符还原：1113 个词头 + 347 处正文 ß（含离线词典判据与人工释义核对，13 条不成立的候选带理由否决）；② 设置页取消「清空当前语种词库」「清空示例词库」，只保留「重置记忆进度」；③ 版本号改为日期制（1.1001.1）；④ 开屏换成 25 条国外哲学家语录（原文 + 中译 + 出处）；⑤ 消除启动图标四周白边（旧版图标与自适应前景都铺满）。",
+  "sha256": "be914bc294abea67e50831810901dad4f317599478c524ec791b762a3b192d77",
   "force": false
 }
