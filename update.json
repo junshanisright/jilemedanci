@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100104,
-  "versionName": "1.1001.4",
-  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.4/Lexis-Cilin-1.1001.4-release.apk",
-  "notes": "页面转场按层级重做（平级 Tab 淡化+微缩放 / 子路由侧滑 1/3 宽 / 开屏幕布式淡出），底栏改为滑进滑出；「困难」评分也自动计入生词本；生词本支持长按移出（只翻 in_vocab，不动词库与记忆进度）；收藏夹/生词本仅在混有多种语言时才逐条标注语言旗帜。",
-  "sha256": "042c71cd5ef0d4c18a14df46d46fb3c57baa4a3461c14cf6e85644f951031de6",
+  "versionCode": 26100105,
+  "versionName": "1.1001.5",
+  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.5/Lexis-Cilin-1.1001.5-release.apk",
+  "notes": "音标补齐：接入英语维基词典整包（kaikki_English，100,714 词），英语音标 81.4%→82.4%；全库合计 91.1%→91.2%，落盘后六条验证 A1–A6 全绿。七条覆盖率下限统一上调到「实测值−3pp」（德语旧下限 0.55 经变异实验证明形同虚设：丢 33% 音标仍判达标）。新增 docs/PHONETIC-COVERAGE-REPORT.md 说明 5,222 条残差逐语种的查证结论。",
+  "sha256": "1aee52a7bd37783699ca7e14e0480b538ddc47ce1ff38fcec3e451774356eab3",
   "force": false
 }
