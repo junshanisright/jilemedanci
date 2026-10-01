@@ -1,8 +1,8 @@
 {
-  "versionCode": 93039,
-  "versionName": "1.930.39",
-  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v1.930.39/Lexis-Cilin-1.930.39-release.apk",
-  "notes": "字体改造：① 音标整串（含其中的拉丁字母）统一 Gentium，中文用 OPPO Sans，数字与字母用 Google Sans，日文用 Noto Sans JP；② 日语词条整体切到日文字形变体（中日汉字共用码点、只能靠语言上下文区分；Noto Sans JP 缺的字如简体「词」回退 OPPO）；③ 修复 Typography 有 6 个槽位（含 labelMedium/bodyLarge）此前未纳入项目字体，首页、统计页、背单词页上这些样式的中文一直走系统字体；④ 导入页的格式说明与预览不再用系统等宽体；⑤ 字体改为不压缩存储进 APK（AAPT2 默认压缩 .ttf，而压缩字体无法 mmap、运行期会解压进堆外内存且每条加载通道各留一份永不释放），安装包因此由 6 MB 增至 16.7 MB。",
-  "sha256": "5df7794a5cbef490b987c4c2b219de123289facf4e375658f16a6c3b99cfeb59",
+  "versionCode": 93040,
+  "versionName": "1.930.40",
+  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v1.930.40/Lexis-Cilin-1.930.40-release.apk",
+  "notes": "字体修复与数据错字修复：① 修掉音标字形被放大 2.05 倍并重叠的缺陷（源字体 upem 重标后残留的 TrueType 提示字节码未清除，已改为构建期一律去提示）；② 梵语 IAST 变音字母（ṇ ḥ ṭ ḍ ṃ ḷ ṛ）原为 Gentium 斜体、在正体词里凸出斜字（683 行），正文改用 Gentium Regular，斜体只留给音标；③ 修正德语词库三处 OCR 错字（一窍不通 / 缺少干劲 / 给马套缰）与一处「人口→入口」。",
+  "sha256": "89132bd76bc212cd21232ba6f58be39610c52c237d818eecec00880ac839f24b",
   "force": false
 }
