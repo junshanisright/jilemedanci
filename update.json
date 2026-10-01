@@ -1,8 +1,12 @@
 {
-  "versionCode": 26100105,
-  "versionName": "1.1001.5",
-  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.5/Lexis-Cilin-1.1001.5-release.apk",
-  "notes": "音标补齐：接入英语维基词典整包（kaikki_English，100,714 词），英语音标 81.4%→82.4%；全库合计 91.1%→91.2%，落盘后六条验证 A1–A6 全绿。七条覆盖率下限统一上调到「实测值−3pp」（德语旧下限 0.55 经变异实验证明形同虚设：丢 33% 音标仍判达标）。新增 docs/PHONETIC-COVERAGE-REPORT.md 说明 5,222 条残差逐语种的查证结论。",
-  "sha256": "1aee52a7bd37783699ca7e14e0480b538ddc47ce1ff38fcec3e451774356eab3",
-  "force": false
+  "versionCode": 26100106,
+  "versionName": "1.1001.6",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.6/Lexis-Cilin-1.1001.6-release.apk",
+  "notes": "多镜像下载回退 + 断点续传：修复「能看到新版本但下载不动」。根因是安装包唯一走 release-assets.githubusercontent.com（实测 18MB 需 458 秒 / 39KB/s，且会被中间设备在 10 秒处整体切断）。清单新增 apkMirrors，App 依次尝试 gh-proxy.com → ghproxy.net → GitHub 直连；支持 Range 断点续传（半成品按源地址哈希分开存放，不跨源拼接）；某源太慢且还有备用源时主动换源（已下过半则不再换）。下载源在界面上可见（第 n/m 个）。发布侧新增判据 D 校验镜像结构。全量单测 507/507 通过。",
+  "sha256": "6c55cf29c602ce24c7ccdb83e55731504be177b311dad783f3ff7ccda6992b94",
+  "force": false,
+  "apkMirrors": [
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.6/Lexis-Cilin-1.1001.6-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.6/Lexis-Cilin-1.1001.6-release.apk"
+  ]
 }
