@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100207,
-  "versionName": "1.1002.7",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.7/Lexis-Cilin-1.1002.7-release.apk",
-  "notes": "修卡片切换的生硬与直角边框：换卡时新卡从牌堆第 1 层的位置长出来（进场动画），牌堆上浮量改为独立状态缓缓落回（此前从滑动位移现场派生，换卡同帧齐刷刷落回，是'僵硬'的主因）；圆角裁剪提到 clickable 之前，长按不再露出直角边框；滑动时可见下一个词（只印第 1 层，更后面的仍不剧透）；搜索页右上角新增语种筛选，可选全部语种或自选多个语种，默认全部语种。",
-  "sha256": "e45ca1ff5073630fd910b7b3aa4e720a4898c72c5287510eaefaa1baa5cd8ceb",
+  "versionCode": 26100208,
+  "versionName": "1.1002.8",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.8/Lexis-Cilin-1.1002.8-release.apk",
+  "notes": "学科二级菜单改为「该功能尚未实现」并与等级菜单同大；修复卡片滑动卡顿（跟手值不再走 Animatable）与复习页旗帜一律显示英语；首页重做（开始学习缩小移到左下、新增复习键、下方显示 xx to learn / xx to review，删除底部复习 Tab）；新增「小李」扩充词库 —— 导入格式扩到 15 列，勾选「小李」后才显示扩充搭配与例句，并修复已打标老用户永远收不到扩充内容的问题",
+  "sha256": "ce2ab49810a397652740fee13477ecf5f5ed580317580b6ab4e94bef6f3b7b63",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.7/Lexis-Cilin-1.1002.7-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.7/Lexis-Cilin-1.1002.7-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.8/Lexis-Cilin-1.1002.8-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.8/Lexis-Cilin-1.1002.8-release.apk"
   ]
 }
