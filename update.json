@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100201,
-  "versionName": "1.1002.1",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.1/Lexis-Cilin-1.1002.1-release.apk",
-  "notes": "UI 全面改版：拟物化 → 现代 M3（白 + 蓝）\n\n【主题层】\n· 换用新的 M3 色板（种子 #1A5FB4）：浅/深两套各 35 个语义角色**全部**绑定\n· 卡片改为「容器色阶分层」，全界面取消投影（原先每张卡都带 elevation）\n· 删除旧拟物色板（Color.kt 整份移除）\n\n【逐屏】\n· 学习卡：去掉两张位图材质，正反面改为同一种容器色 —— 深浅主题终于能自动成立\n· 四档评分键：打字机键帽（侧壁+渐变+压印）→ 扁平色键（62dp / 18dp 圆角）\n· 首页主按钮：皮革→黄铜渐变 → 品牌蓝实心；统计数字改用主色\n· 开屏页：深色胡桃木书桌场景图 → 品牌蓝底（正文/出处各档透明度都实测过 WCAG AA）\n· 语种选择器：去掉手写的 amber 高亮，改用设计稿的 secondaryContainer；\n  顺带修掉一个真 bug —— 原先用「系统深浅」猜主题，App 设为浅色而系统是深色时会错色\n· 7 门语种徽标：此前 LA/GRC/SA 三门是**硬编码**的，现在全部纳入色板并过对比度闸门\n· 统计页柱状图：「复习 / 新学」的配色与设计稿对齐（原先两者反了）\n· 列表行（收藏 / 搜索 / 生词本）：底色显式绑到 surfaceContainerLow\n  （原先吃的是 M3 默认的 surfaceContainerHighest，比工程里其它卡更灰一档）\n\n【工程】\n· 新增「色板一致性门禁」：11 条断言覆盖 35 角色（深浅各一遍）+ 7 语种 + 4 档评分键 + 冠词 chip\n  —— 已用 5 组变异实验逐条证明每条断言都有判别力（对照组全绿、每组只红对应的那一条）\n· 发版链路补一道色板检查：`assembleRelease` 不跑单测，这道门禁以前在发版时是空的",
-  "sha256": "f5f1b12189af45e39b3d575f1152b7474ad64a8413649e73428cc13913d26020",
+  "versionCode": 26100202,
+  "versionName": "1.1002.2",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.2/Lexis-Cilin-1.1002.2-release.apk",
+  "notes": "三档评分按钮回归（不认识/模糊/认识，仍走 SM-2）；开屏语录扩到 68 条并重排版、停留 2.6 秒且可点击跳过；卡片背面补上词头与音标同行；跨语种复习时卡片左上角显示语言旗帜；主页可长按拖动排序语种（卡片页只读跟随）；词库导入入口从主页移到设置页；卡片堆叠层次更明显、滑动音效增强。",
+  "sha256": "3e57f76a2de9c0fa2148b35ac8e43228d79f5808a3fdca9364b07b0ae7c04fc2",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.1/Lexis-Cilin-1.1002.1-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.1/Lexis-Cilin-1.1002.1-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.2/Lexis-Cilin-1.1002.2-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.2/Lexis-Cilin-1.1002.2-release.apk"
   ]
 }
