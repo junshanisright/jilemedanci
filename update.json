@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100209,
-  "versionName": "1.1002.9",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.9/Lexis-Cilin-1.1002.9-release.apk",
-  "notes": "## 首页\n- **底部两个胶囊与待办数合并**：「开始学习 12 to learn」「复习 7 to review」各自收进一颗胶囊，不再有独立的待办行。汉字上提 2dp 校正视觉重心，顶部加内高光，按钮高度提到 64dp。\n- 待办数没算出来时**整行不渲染**（不显示 0）——「0 to learn」会把\"还没算出来\"误报成\"今天一词未学\"。\n\n## 背词页\n- **换卡过渡改为真正并发**：牌堆落回与新卡进场此前是串行（实际 520ms，且前 260ms 牌堆静止），现改为并发 + 60ms 错峰，观感上卡片是「落回即入位」。\n- **修掉一个叠加的动画**：换卡时卡片仍在播 300ms 的翻面回正，与进场方向相反地叠加，看起来像「卡了一下」。现用卡片身份标记 `cardIdentityFor`（只取 word+meaning）让换卡跳过翻面。身份刻意不含收藏态与扩充内容 —— 否则点收藏或勾选等级都会误判为换卡而跳动。\n- **当前栈顶卡片加 1dp 描边**（`outlineVariant`），与下方牌堆拉开层次。\n\n## 导航\n- 底栏顺序改为 **收藏夹 / 首页 / 统计**，首页居中。\n- **删除收藏夹页右下角的「复习生词」FAB**（调用链已删干净：ViewModel 事件、NavHost 传参、字符串资源）。\n\n## 工程\n- 单测 754 例全绿；字体四道门禁 + 发布核验 11 条变异注入全部通过。",
-  "sha256": "41ff2f832abffa9f6c7a458fd1e5396a89cbde0ec230dec1c05b4a38bba5db66",
+  "versionCode": 26100210,
+  "versionName": "1.1002.10",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.10/Lexis-Cilin-1.1002.10-release.apk",
+  "notes": "## 首页\n- **待办数字改为跨语种统计**（修「to learn / to review 数字不对」）：原先今日新学数是**按当前语种**算的，而旁边「已学 / 收藏 / 打卡」都是跨语种 —— 切到德语首页时，它会拿「德语今日新学数」去减一个跨语种的上限。现已统一口径。\n- **两个键的边框收窄**：描边 1dp → 0.5dp，内容左右各留 16dp，胶囊不再横铺满屏。\n- **首启进度可见**：首次安装后把词库写进手机时，两个按钮上方会显示「正在准备词库 · 德语 42%」；导入期间按钮暂时禁用，**失败时自动恢复可用**（不会把您锁在门外）。\n\n## 背词页\n- **修「一次滑动出现两次动效」**：滑动松手后新卡正在进场时，若手指再次按下，会把牌堆二次拉回，看起来像又冒出一个特效。现已改为只在确有残留位移时才归位。\n- **当前卡片加描边**，与下方牌堆拉开层次。\n- **排序改成二级菜单**：点开可选**正序 / 倒序 / 乱序**（默认正序）。「按学科」「按等级」留在原位不动。倒序只作用于新词队列 —— 复习队列仍按「最该复习的排最前」，否则今天最该背的词会被排到最后。\n\n## 统计页\n- **取消「按语种」模式，统一跨语种计数**；顺带修掉一个既有缺陷：跨语种口径下近 7 日柱状图的「复习」段此前**恒为空**（SQL 里被硬编码成 0），取消按语种模式后它会变成可见的功能倒退。\n- **新增今日学习时长**：按「相邻两次翻词间隔 ≤ 2 分钟算同一段」估算，首张词计 6 秒，单日上限 16 小时。\n- **新增树状图**：根 = 总已学词数，7 个语种各一行（缩进 + 连线），条长 = 词数，颜色 = 语种。\n- 新建统计页单测目录（此前该页零测试覆盖）。\n\n## 图标与音效\n- **重绘兔耳朵**：右耳外侧轮廓线在耳根处断开（原始 artwork 交付时就是断的，重跑生成脚本产出的图标与旧资产逐字节相同，所以只能重绘）。已按左耳的转折结构画出缺失段并重生成全部 5 个密度。\n- **换翻页音效**：实测旧前进音**过零率 8379 Hz**、能量 90% 集中在 1.9–7.2 kHz —— 正是人耳最敏感的高频区，所以「太难听」的根因是**太尖太刺**，不是太响。新版把音域下移到 0.56–2.3 kHz，过零率降到 **2612 Hz（降 69%）**，并给两音都加了尾部淡出（旧版两个音结尾都有轻微「咔」声）。\n\n## 导航\n- 底栏顺序改为 **统计 / 首页 / 收藏夹**（首页居中不变）。\n\n## 工程\n- 单测 854 例全绿；字体覆盖门禁 + 音效体检（含「正确素材必须通过」变异）全部通过。",
+  "sha256": "db4af702d8defd5de5643832c7a214aa976a39e5150075f754847e68a9abea16",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.9/Lexis-Cilin-1.1002.9-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.9/Lexis-Cilin-1.1002.9-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.10/Lexis-Cilin-1.1002.10-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.10/Lexis-Cilin-1.1002.10-release.apk"
   ]
 }
