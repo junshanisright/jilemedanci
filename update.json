@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100205,
-  "versionName": "1.1002.5",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.5/Lexis-Cilin-1.1002.5-release.apk",
-  "notes": "首页语录取消边框、原文改用 Gentium 字体；修复滑动后卡片停在屏幕外看不到单词的问题；等级与学科二级菜单统一限高为同尺寸；选择语言按钮图标换成蓝色波浪地球。",
-  "sha256": "05ffe985353816f834a89dced828ed390206bc2282e3a766855015c9832eeea1",
+  "versionCode": 26100206,
+  "versionName": "1.1002.6",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.6/Lexis-Cilin-1.1002.6-release.apk",
+  "notes": "设置页去掉「关于」整区；「语种顺序」移到「更新」下面；外观区去掉「主题模式」标题字。首页语录上移消除空位，并补回中文译文与出处。全新：每次冷启动自动检测新版本，有更新就弹提醒（只在重新打开软件时出现，可选「以后再说」）。开始学习按钮改为上亮下暗的渐变 + 按压缩放与压暗反馈。",
+  "sha256": "ea446d1d2eb6a847b606365d7ab419362c690677dbd0a412a1ce7a9a735f6650",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.5/Lexis-Cilin-1.1002.5-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.5/Lexis-Cilin-1.1002.5-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.6/Lexis-Cilin-1.1002.6-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.6/Lexis-Cilin-1.1002.6-release.apk"
   ]
 }
