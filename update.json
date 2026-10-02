@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100208,
-  "versionName": "1.1002.8",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.8/Lexis-Cilin-1.1002.8-release.apk",
-  "notes": "学科二级菜单改为「该功能尚未实现」并与等级菜单同大；修复卡片滑动卡顿（跟手值不再走 Animatable）与复习页旗帜一律显示英语；首页重做（开始学习缩小移到左下、新增复习键、下方显示 xx to learn / xx to review，删除底部复习 Tab）；新增「小李」扩充词库 —— 导入格式扩到 15 列，勾选「小李」后才显示扩充搭配与例句，并修复已打标老用户永远收不到扩充内容的问题",
-  "sha256": "ce2ab49810a397652740fee13477ecf5f5ed580317580b6ab4e94bef6f3b7b63",
+  "versionCode": 26100209,
+  "versionName": "1.1002.9",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.9/Lexis-Cilin-1.1002.9-release.apk",
+  "notes": "## 首页\n- **底部两个胶囊与待办数合并**：「开始学习 12 to learn」「复习 7 to review」各自收进一颗胶囊，不再有独立的待办行。汉字上提 2dp 校正视觉重心，顶部加内高光，按钮高度提到 64dp。\n- 待办数没算出来时**整行不渲染**（不显示 0）——「0 to learn」会把\"还没算出来\"误报成\"今天一词未学\"。\n\n## 背词页\n- **换卡过渡改为真正并发**：牌堆落回与新卡进场此前是串行（实际 520ms，且前 260ms 牌堆静止），现改为并发 + 60ms 错峰，观感上卡片是「落回即入位」。\n- **修掉一个叠加的动画**：换卡时卡片仍在播 300ms 的翻面回正，与进场方向相反地叠加，看起来像「卡了一下」。现用卡片身份标记 `cardIdentityFor`（只取 word+meaning）让换卡跳过翻面。身份刻意不含收藏态与扩充内容 —— 否则点收藏或勾选等级都会误判为换卡而跳动。\n- **当前栈顶卡片加 1dp 描边**（`outlineVariant`），与下方牌堆拉开层次。\n\n## 导航\n- 底栏顺序改为 **收藏夹 / 首页 / 统计**，首页居中。\n- **删除收藏夹页右下角的「复习生词」FAB**（调用链已删干净：ViewModel 事件、NavHost 传参、字符串资源）。\n\n## 工程\n- 单测 754 例全绿；字体四道门禁 + 发布核验 11 条变异注入全部通过。",
+  "sha256": "41ff2f832abffa9f6c7a458fd1e5396a89cbde0ec230dec1c05b4a38bba5db66",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.8/Lexis-Cilin-1.1002.8-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.8/Lexis-Cilin-1.1002.8-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.9/Lexis-Cilin-1.1002.9-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.9/Lexis-Cilin-1.1002.9-release.apk"
   ]
 }
