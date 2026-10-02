@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100107,
-  "versionName": "1.1001.7",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.7/Lexis-Cilin-1.1001.7-release.apk",
-  "notes": "音标修复与补齐 + 释义中文化\n\n· 修掉 499 条被贴错词的音标（法语 480、希腊语 19）——例如 le 之前显示 /le/（那是 lé 的读音），现在是对的 /lə/；tête、après、porté、mais 等同理。\n· 法语补上 702 条音标（l'homme、d'un、j'avais、qu'il 这类省音形），法语覆盖率 86.8% → 93.9%。\n· 希腊语、拉丁语里残留的英文释义已全部改为中文。\n· 打分按钮最左那档「重来」改名为「不会」（行为不变）。",
-  "sha256": "770f3056e33c404a94bee36f134360acc7975045f29041c43e2912ee49da122c",
+  "versionCode": 26100201,
+  "versionName": "1.1002.1",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.1/Lexis-Cilin-1.1002.1-release.apk",
+  "notes": "UI 全面改版：拟物化 → 现代 M3（白 + 蓝）\n\n【主题层】\n· 换用新的 M3 色板（种子 #1A5FB4）：浅/深两套各 35 个语义角色**全部**绑定\n· 卡片改为「容器色阶分层」，全界面取消投影（原先每张卡都带 elevation）\n· 删除旧拟物色板（Color.kt 整份移除）\n\n【逐屏】\n· 学习卡：去掉两张位图材质，正反面改为同一种容器色 —— 深浅主题终于能自动成立\n· 四档评分键：打字机键帽（侧壁+渐变+压印）→ 扁平色键（62dp / 18dp 圆角）\n· 首页主按钮：皮革→黄铜渐变 → 品牌蓝实心；统计数字改用主色\n· 开屏页：深色胡桃木书桌场景图 → 品牌蓝底（正文/出处各档透明度都实测过 WCAG AA）\n· 语种选择器：去掉手写的 amber 高亮，改用设计稿的 secondaryContainer；\n  顺带修掉一个真 bug —— 原先用「系统深浅」猜主题，App 设为浅色而系统是深色时会错色\n· 7 门语种徽标：此前 LA/GRC/SA 三门是**硬编码**的，现在全部纳入色板并过对比度闸门\n· 统计页柱状图：「复习 / 新学」的配色与设计稿对齐（原先两者反了）\n· 列表行（收藏 / 搜索 / 生词本）：底色显式绑到 surfaceContainerLow\n  （原先吃的是 M3 默认的 surfaceContainerHighest，比工程里其它卡更灰一档）\n\n【工程】\n· 新增「色板一致性门禁」：11 条断言覆盖 35 角色（深浅各一遍）+ 7 语种 + 4 档评分键 + 冠词 chip\n  —— 已用 5 组变异实验逐条证明每条断言都有判别力（对照组全绿、每组只红对应的那一条）\n· 发版链路补一道色板检查：`assembleRelease` 不跑单测，这道门禁以前在发版时是空的",
+  "sha256": "f5f1b12189af45e39b3d575f1152b7474ad64a8413649e73428cc13913d26020",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.7/Lexis-Cilin-1.1001.7-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1001.7/Lexis-Cilin-1.1001.7-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.1/Lexis-Cilin-1.1002.1-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.1/Lexis-Cilin-1.1002.1-release.apk"
   ]
 }
