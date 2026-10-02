@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100206,
-  "versionName": "1.1002.6",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.6/Lexis-Cilin-1.1002.6-release.apk",
-  "notes": "设置页去掉「关于」整区；「语种顺序」移到「更新」下面；外观区去掉「主题模式」标题字。首页语录上移消除空位，并补回中文译文与出处。全新：每次冷启动自动检测新版本，有更新就弹提醒（只在重新打开软件时出现，可选「以后再说」）。开始学习按钮改为上亮下暗的渐变 + 按压缩放与压暗反馈。",
-  "sha256": "ea446d1d2eb6a847b606365d7ab419362c690677dbd0a412a1ce7a9a735f6650",
+  "versionCode": 26100207,
+  "versionName": "1.1002.7",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.7/Lexis-Cilin-1.1002.7-release.apk",
+  "notes": "修卡片切换的生硬与直角边框：换卡时新卡从牌堆第 1 层的位置长出来（进场动画），牌堆上浮量改为独立状态缓缓落回（此前从滑动位移现场派生，换卡同帧齐刷刷落回，是'僵硬'的主因）；圆角裁剪提到 clickable 之前，长按不再露出直角边框；滑动时可见下一个词（只印第 1 层，更后面的仍不剧透）；搜索页右上角新增语种筛选，可选全部语种或自选多个语种，默认全部语种。",
+  "sha256": "e45ca1ff5073630fd910b7b3aa4e720a4898c72c5287510eaefaa1baa5cd8ceb",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.6/Lexis-Cilin-1.1002.6-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.6/Lexis-Cilin-1.1002.6-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.7/Lexis-Cilin-1.1002.7-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1002.7/Lexis-Cilin-1.1002.7-release.apk"
   ]
 }
