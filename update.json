@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100307,
-  "versionName": "1.1003.7",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.7/Lexis-Cilin-1.1003.7-release.apk",
-  "notes": "【修复】\n· 快速连续滑动单词卡时，卡片会短暂\"跳回\"上一张单词的问题 —— 现在连滑完全连贯，滑走哪张就换到哪张，不再闪回。\n\n【改进】\n· 学科筛选真正生效了：在「学科」里勾选某个学科（如哲学），这一轮出现的就全是该学科的单词；「不按学科」（默认）则显示所有单词。\n· 学科菜单底部的\"该功能尚未实现\"小字已删除 —— 学科筛选现在是真实功能。\n· 卡片背面例句区的哲学经典句子去掉了\"哲学经典\"标题，内容整体上移，阅读更紧凑。",
-  "sha256": "e536a5798cfb138e7e2d928a81a4f82751b34082dca44eeffe41a634b33b0235",
+  "versionCode": 26100308,
+  "versionName": "1.1003.8",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.8/Lexis-Cilin-1.1003.8-release.apk",
+  "notes": "【词库扩充】\n· 《哲学外语词汇汇总词典》整本录入：与词库重复的自动跳过，新增 3119 条（英语 782 / 德语 567 / 法语 507 / 希腊语 569 / 拉丁语 694），均补全词性，德/法/希腊语名词带定冠词与语法性别，哲学释义已并入词条释义。\n· 日语词库大补：按《日语单词汇总》为 1 万余词打上 N1–N5 等级，补充例句 3287 条、固定搭配 264 条，并打上学科与频率标签。\n· 德/英/法语学术词库补充例句共 2.8 万余条，卡片背面可直接查看。\n\n【显示】\n· 普通例句改用系统字体显示，只有哲学经典引文保留 Gentium 字体，视觉更统一。\n· 希腊语词条保持希腊字母原貌。\n\n【说明】\n· 本次词库扩充量较大，首次启动更新后会有一次后台回填，稍等片刻即可，不影响正常使用。",
+  "sha256": "b088e878b474a8f3834a8bd8b8031556c76da5101fa1d89f3a81e50be54740b7",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.7/Lexis-Cilin-1.1003.7-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.7/Lexis-Cilin-1.1003.7-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.8/Lexis-Cilin-1.1003.8-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.8/Lexis-Cilin-1.1003.8-release.apk"
   ]
 }
