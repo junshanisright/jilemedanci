@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100310,
-  "versionName": "1.1003.10",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.10/Lexis-Cilin-1.1003.10-release.apk",
-  "notes": "新增：复数与动词变位入库\n\n已把五语学术词典里的复数形式和动词变位（含古希腊语动词主要形式）录入词库，共 25400 余条，覆盖德语、法语、古希腊语、拉丁语。\n\n- 学习卡片翻到背面，「用法」区会直接显示「复数」和「动词变位」两行（没有的词不占位）；词卡详情里也能看到。\n- 已有的收藏、学习进度、释义完全不受影响。",
-  "sha256": "c72954a81ffe7f94adf34f27b44a0154d2ea8038342142a730f2cb7f35ed5cc9",
+  "versionCode": 26100311,
+  "versionName": "1.1003.11",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.11/Lexis-Cilin-1.1003.11-release.apk",
+  "notes": "修正：语言排序的排版\n\n设置页「语言排序」的说明文字，字号与其它设置项统一，并与右侧展开箭头显示在同一行。",
+  "sha256": "0fd9e77b0a643a1114a1f84a4502f4d7002b30aaf39a78c660c85d3a7ac6f704",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.10/Lexis-Cilin-1.1003.10-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.10/Lexis-Cilin-1.1003.10-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.11/Lexis-Cilin-1.1003.11-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.11/Lexis-Cilin-1.1003.11-release.apk"
   ]
 }
