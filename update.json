@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100306,
-  "versionName": "1.1003.6",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.6/Lexis-Cilin-1.1003.6-release.apk",
-  "notes": "本次更新\n\n【新增】\n· 单词可以按「词频」排序了 —— 越常用的词排得越靠前，默认就按词频排，打开就能先背高频词。\n· 「学科」筛选可用了：词条带上了学科归属（哲学 / 政治经济学 / 社会史 / 语言学 / 法学 / 文学）。\n· 卡片背面的例句区新增「哲学经典」：哲学原文用古典字体显示，下面配中文翻译与出处。\n· 学习页三个按钮「顺序 / 等级 / 学科」默认显示自己的名字；你选过之后，当次会显示你选的内容，\n  下次打开又回到原来的字 —— 但你的选择依然生效，不用重新选一遍。\n\n【修复】\n· 打开「开始学习」时，卡片不再先冒出一张小卡再放大 —— 直接就是你平时看到的那张大卡片。\n· 换到下一张卡时，新卡不再先跳一下才归位。\n\n【提示】\n· 升级后第一次打开会做一次词库标注整理（约几秒），界面会显示进度，之后不再重复。",
-  "sha256": "a14d1a78bfa0869d5463546dbf5c3fa402efcc3e84d2ee76ca0d60c88982ed72",
+  "versionCode": 26100307,
+  "versionName": "1.1003.7",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.7/Lexis-Cilin-1.1003.7-release.apk",
+  "notes": "【修复】\n· 快速连续滑动单词卡时，卡片会短暂\"跳回\"上一张单词的问题 —— 现在连滑完全连贯，滑走哪张就换到哪张，不再闪回。\n\n【改进】\n· 学科筛选真正生效了：在「学科」里勾选某个学科（如哲学），这一轮出现的就全是该学科的单词；「不按学科」（默认）则显示所有单词。\n· 学科菜单底部的\"该功能尚未实现\"小字已删除 —— 学科筛选现在是真实功能。\n· 卡片背面例句区的哲学经典句子去掉了\"哲学经典\"标题，内容整体上移，阅读更紧凑。",
+  "sha256": "e536a5798cfb138e7e2d928a81a4f82751b34082dca44eeffe41a634b33b0235",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.6/Lexis-Cilin-1.1003.6-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.6/Lexis-Cilin-1.1003.6-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.7/Lexis-Cilin-1.1003.7-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.7/Lexis-Cilin-1.1003.7-release.apk"
   ]
 }
