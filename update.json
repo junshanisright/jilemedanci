@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100305,
-  "versionName": "1.1003.5",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.5/Lexis-Cilin-1.1003.5-release.apk",
-  "notes": "本次更新\n\n【修复】\n· 换单词时「动效会播两遍」——现在每次换卡只出现一次入场效果。\n· 刚进入背诵/复习时，卡片会短暂消失又突然冒回来——已修复。\n· 进入卡片页时「先出现一张小卡片、再慢慢放大」的生硬动效，现在一进来就是正常大小。\n· 复习更严格：只出「今天该复习」的单词，没到期的不会再提前冒出；今天没有到期的，会明确告诉你是「没有到期」还是「还没学过」。\n· 设置里「检查更新」的弹窗不再一顿一顿。\n· 日语等离线语音包发不出声的问题已修复。\n\n【改进】\n· 背诵页排序菜单新增「频次」一项（右侧问号可看说明；排序数据稍后接入，暂为占位）。\n· 排序菜单下方那片空白已去掉；「排序 / 等级 / 学科」三个选项改为一整行居中，更好点。\n· 设置页：「语种顺序」改名为「语言排序」，「离线语音包」改名为「语言包」，并去掉这两处的说明文字。\n· 首页「开始学习 / 开始复习」两个大按钮调矮 5%（只上下变矮，宽度恢复原样）。",
-  "sha256": "31f9c3965b6ed1e890ca67e20525803311068e9fc9a747590ab63f49b03e5046",
+  "versionCode": 26100306,
+  "versionName": "1.1003.6",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.6/Lexis-Cilin-1.1003.6-release.apk",
+  "notes": "本次更新\n\n【新增】\n· 单词可以按「词频」排序了 —— 越常用的词排得越靠前，默认就按词频排，打开就能先背高频词。\n· 「学科」筛选可用了：词条带上了学科归属（哲学 / 政治经济学 / 社会史 / 语言学 / 法学 / 文学）。\n· 卡片背面的例句区新增「哲学经典」：哲学原文用古典字体显示，下面配中文翻译与出处。\n· 学习页三个按钮「顺序 / 等级 / 学科」默认显示自己的名字；你选过之后，当次会显示你选的内容，\n  下次打开又回到原来的字 —— 但你的选择依然生效，不用重新选一遍。\n\n【修复】\n· 打开「开始学习」时，卡片不再先冒出一张小卡再放大 —— 直接就是你平时看到的那张大卡片。\n· 换到下一张卡时，新卡不再先跳一下才归位。\n\n【提示】\n· 升级后第一次打开会做一次词库标注整理（约几秒），界面会显示进度，之后不再重复。",
+  "sha256": "a14d1a78bfa0869d5463546dbf5c3fa402efcc3e84d2ee76ca0d60c88982ed72",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.5/Lexis-Cilin-1.1003.5-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.5/Lexis-Cilin-1.1003.5-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.6/Lexis-Cilin-1.1003.6-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.6/Lexis-Cilin-1.1003.6-release.apk"
   ]
 }
