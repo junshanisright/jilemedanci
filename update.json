@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100411,
-  "versionName": "1.1004.11",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.11/Lexis-Cilin-1.1004.11-release.apk",
-  "notes": "修复滑动切卡后闪回旧卡的问题，滑动切词更干脆稳定",
-  "sha256": "48fdf18af73cdb433776cbc1c37df9492ef0fd0448393287d9a30e8411a229b7",
+  "versionCode": 26100412,
+  "versionName": "1.1004.12",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.12/Lexis-Cilin-1.1004.12-release.apk",
+  "notes": "修复滑动切卡后偶尔闪回旧卡的问题。\n修复日语单词发音与单词对不上的问题。\n新增「出现新卡片时自动播放语音」开关（设置 → 语言包，默认关闭）。",
+  "sha256": "30723ca8bc900af50cb54eb3e6ba176828deb02f55bbd9e0b6ce33d0334637b3",
   "force": false
 }
