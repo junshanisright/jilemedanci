@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100311,
-  "versionName": "1.1003.11",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.11/Lexis-Cilin-1.1003.11-release.apk",
-  "notes": "修正：语言排序的排版\n\n设置页「语言排序」的说明文字，字号与其它设置项统一，并与右侧展开箭头显示在同一行。",
-  "sha256": "0fd9e77b0a643a1114a1f84a4502f4d7002b30aaf39a78c660c85d3a7ac6f704",
+  "versionCode": 26100312,
+  "versionName": "1.1003.12",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.12/Lexis-Cilin-1.1003.12-release.apk",
+  "notes": "本次更新\n\n● 根治「切卡瞬间跳回上一张」\n  滑动松手后卡片弹回正中、过一会儿才换成新词的问题，这次找到了真正的根因：\n  手势代码读到的\"当前卡片标识\"是会话开始时的旧值，导致飞出动画从未真正播放。\n  现在滑动收走卡片的过程完整连贯，松手即飞出、无缝换词。\n\n● 复数与动词变位的安放（卡片正面/背面）\n  正面：名词复数括号缀在词头后，动词变位加括号放在音标下面；\n  背面：与正面同位显示，换卡不再跳动。词形数据增补 2126 条。\n\n● 语音包音质\n  希腊语语音包升级为更清晰的 medium 音质（已装过希腊语包的用户需在\n  设置 → 语言包里重新下载一次，约 60 MB）。",
+  "sha256": "66577e56e9f0b01e382e31a9480ad54e607ca43fe1ae9a1b520e6bdb3f13e1b4",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.11/Lexis-Cilin-1.1003.11-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.11/Lexis-Cilin-1.1003.11-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.12/Lexis-Cilin-1.1003.12-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.12/Lexis-Cilin-1.1003.12-release.apk"
   ]
 }
