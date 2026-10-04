@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100405,
-  "versionName": "1.1004.5",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.5/Lexis-Cilin-1.1004.5-release.apk",
-  "notes": "本次更新修复了几处体验问题：\n\n1. 点开单词卡背面或播放键后，语音要等好几秒才出声的问题修复了，现在几乎立即发音。\n2. 希腊语单词发音里的拖长停顿被压缩，听起来不再一顿一顿的。\n3. 翻到卡背时整摞卡片会跟着变高的问题修复了。\n4. 筛选菜单展开后下方多余的大片空白已收窄。\n5. 更新下载时进度条不再来回跳；语言图标整体更精致。",
-  "sha256": "95e8c60f2abf301ccf47d3ef7e2cfe3f8634ddd62975970a6c96402250e04e7b",
+  "versionCode": 26100406,
+  "versionName": "1.1004.6",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.6/Lexis-Cilin-1.1004.6-release.apk",
+  "notes": "搜索支持拼写容错，单词打错了也能搜到\n搜索结果的语言标注改为国旗\n卡片翻到背面时恢复向下展开（仅当前卡，后层不动）\n筛选面板的空白收窄",
+  "sha256": "f16191cc494c366cc8da6f6272d00dfef7bab564148708ebc176e3a9976ee2ff",
   "force": false
 }
