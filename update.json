@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100403,
-  "versionName": "1.1004.3",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.3/Lexis-Cilin-1.1004.3-release.apk",
-  "notes": "修正上一版的误解：移除「点击卡片背面放大」交互（该效果与预期不符，且存在放大后卡住的问题）。\n\n你要求的「正面切换到背面的逐渐拉长特效」在此前版本已实现：翻面过程中卡片纵向逐渐拉长、落定后复原，背景堆叠的卡片始终保持原装。本次仅撤销误加的点击放大，翻面拉伸特效保持不变。",
-  "sha256": "f78bb7b9785ea5ea39c6bd9e59ed0ae552eb4c8890cc0a720f750c85dbd9f600",
+  "versionCode": 26100404,
+  "versionName": "1.1004.4",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.4/Lexis-Cilin-1.1004.4-release.apk",
+  "notes": "本次更新集中修复语音与词库文本质量：\n\n1. 修复部分单词发音不正确的问题：近期新增的哲学词汇（约三千余条）此前一直回退到系统合成语音，与离线高清发音不一致；现已重建发音索引，这批词恢复使用离线发音。\n2. 清理了英/德/法扩展词库中一批机器拼凑、译文不通顺的示例句（译文里夹着未翻译的原词），这类句子已删除，只保留真实例句。\n3. 修正了个别例句的中文译文（如 eudaimonia 例句中夹带原词的问题）。\n4. 对全部词库做了一轮文本质量扫描（乱码、括号配对、译文缺失），确保逐句可读。",
+  "sha256": "a14e426b89b652900f988dc2ef782797e36a3ac3e22b7479698263b4ab91887d",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.3/Lexis-Cilin-1.1004.3-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.3/Lexis-Cilin-1.1004.3-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.4/Lexis-Cilin-1.1004.4-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.4/Lexis-Cilin-1.1004.4-release.apk"
   ]
 }
