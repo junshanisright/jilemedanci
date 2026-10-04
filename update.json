@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100406,
-  "versionName": "1.1004.6",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.6/Lexis-Cilin-1.1004.6-release.apk",
-  "notes": "搜索支持拼写容错，单词打错了也能搜到\n搜索结果的语言标注改为国旗\n卡片翻到背面时恢复向下展开（仅当前卡，后层不动）\n筛选面板的空白收窄",
-  "sha256": "f16191cc494c366cc8da6f6272d00dfef7bab564148708ebc176e3a9976ee2ff",
+  "versionCode": 26100407,
+  "versionName": "1.1004.7",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.7/Lexis-Cilin-1.1004.7-release.apk",
+  "notes": "卡片翻到背面时改为向下展开，顶部不再移动\n修复小概率滑动后卡片歪在半路、滑不动的问题\n希腊语新增「真人声」发音：在 设置 → 语言包 下载「希腊语·真人声」，单词发音更自然",
+  "sha256": "7d97758a7f19fe4299f36afa3d249de0e8bc4e548224b103a920685622d1b5af",
   "force": false
 }
