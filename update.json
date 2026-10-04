@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100409,
-  "versionName": "1.1004.9",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.9/Lexis-Cilin-1.1004.9-release.apk",
-  "notes": "统计页各语言改为按「今日学习数量」统计，不再是累计总数\n树状图不再把总学习和各语言连在一起，改为平铺排列\n统计页支持下拉刷新，右上角按钮改为分享学习成果",
-  "sha256": "efbee28a37bbe73c77e0c221cf8f8717befbe83eff3aba337d50705059e78880",
+  "versionCode": 26100410,
+  "versionName": "1.1004.10",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.10/Lexis-Cilin-1.1004.10-release.apk",
+  "notes": "统计页分享升级：点击分享即生成今日学习成果图片，可直接分享到社交平台，图片右下角附扫码安装入口\n修复德语词条的拼写错误（如 außerst、übung 一类被误录的写法，共两千余处）\n修正德语复数标注：带变音的复数现在按词典惯例标出（如 Kunst -¨e），并纠正了大量错误后缀\n清理了挂错词性的词形标注：名词不再显示动词变位，动词不再显示复数",
+  "sha256": "46ebd5618d1f7c1c961b2c5fd2d5e4655a1ab91e593023a772fdb07c8c28a33a",
   "force": false
 }
