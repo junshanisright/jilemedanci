@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100402,
-  "versionName": "1.1004.2",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.2/Lexis-Cilin-1.1004.2-release.apk",
-  "notes": "【新增】点击卡片背面放大查看\n翻到背面后，点一下卡片会弹性放大（约 1.15 倍），方便细看释义、搭配和例句；再点一下缩回并翻回正面。背景堆叠的卡片保持原装不受影响。评分后自动显示释义时，点卡片仍然是直接跳下一个单词。\n\n【优化】筛选按钮更精致\n右上角「筛选」按钮加了一个筛选漏斗小图标，与文字形成更稳定的视觉组合。\n\n【改进】英语、德语、法语未分级单词自动归级\n此前因词典未提供分级而归入「未分级」的哲学词汇（英语 782 条、德语 567 条、法语 507 条）已按词频与难度自动划入合适等级，等级筛选里的「未分级」不再有一大堆英语/德语/法语词。拉丁语、希腊语、梵语没有通用分级体系，维持未分级。升级后自动生效，无需重新安装。",
-  "sha256": "f5f4fe49d54fb3118917c300bc35bd607c851950b2e50fd0b302ff8d734391e7",
+  "versionCode": 26100403,
+  "versionName": "1.1004.3",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.3/Lexis-Cilin-1.1004.3-release.apk",
+  "notes": "修正上一版的误解：移除「点击卡片背面放大」交互（该效果与预期不符，且存在放大后卡住的问题）。\n\n你要求的「正面切换到背面的逐渐拉长特效」在此前版本已实现：翻面过程中卡片纵向逐渐拉长、落定后复原，背景堆叠的卡片始终保持原装。本次仅撤销误加的点击放大，翻面拉伸特效保持不变。",
+  "sha256": "f78bb7b9785ea5ea39c6bd9e59ed0ae552eb4c8890cc0a720f750c85dbd9f600",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.2/Lexis-Cilin-1.1004.2-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.2/Lexis-Cilin-1.1004.2-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.3/Lexis-Cilin-1.1004.3-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.3/Lexis-Cilin-1.1004.3-release.apk"
   ]
 }
