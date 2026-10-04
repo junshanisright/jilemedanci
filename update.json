@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100408,
-  "versionName": "1.1004.8",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.8/Lexis-Cilin-1.1004.8-release.apk",
-  "notes": "修复卡片翻到背面时顶部向上顶、盖住进度条的问题：现在顶部纹丝不动，只向下展开\n删除了旧的希腊语语音包：已下载过的用户升级后自动清理，腾出约 63 MB 空间",
-  "sha256": "8f2857a3aecccc184349e7eb4cbc153a2eeec5c490283b6449d059f6c352595a",
+  "versionCode": 26100409,
+  "versionName": "1.1004.9",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.9/Lexis-Cilin-1.1004.9-release.apk",
+  "notes": "统计页各语言改为按「今日学习数量」统计，不再是累计总数\n树状图不再把总学习和各语言连在一起，改为平铺排列\n统计页支持下拉刷新，右上角按钮改为分享学习成果",
+  "sha256": "efbee28a37bbe73c77e0c221cf8f8717befbe83eff3aba337d50705059e78880",
   "force": false
 }
