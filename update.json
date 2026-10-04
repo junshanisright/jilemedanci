@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100413,
-  "versionName": "1.1004.13",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.13/Lexis-Cilin-1.1004.13-release.apk",
-  "notes": "点分享后先看到生成的学习图，确认后再发给别人。\n学习图改成四张数据卡：今日新学、今日复习、今日时长、连续打卡，一眼看清。\n右下角二维码换成新的下载码。",
-  "sha256": "c5f950e18ac48eff29cbe27c8133d36fb03629d25803f9b8d191bed69f3294c4",
+  "versionCode": 26100414,
+  "versionName": "1.1004.14",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.14/Lexis-Cilin-1.1004.14-release.apk",
+  "notes": "修复：滑动换卡时卡片会先停住约半秒、之后才突然换词 —— 现在松手即飞出，换词顺畅。",
+  "sha256": "482620f7a269f2746172bd16ca6d1388da19ed3b089135c596b0f9662bf7eb0c",
   "force": false
 }
