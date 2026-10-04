@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100410,
-  "versionName": "1.1004.10",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.10/Lexis-Cilin-1.1004.10-release.apk",
-  "notes": "统计页分享升级：点击分享即生成今日学习成果图片，可直接分享到社交平台，图片右下角附扫码安装入口\n修复德语词条的拼写错误（如 außerst、übung 一类被误录的写法，共两千余处）\n修正德语复数标注：带变音的复数现在按词典惯例标出（如 Kunst -¨e），并纠正了大量错误后缀\n清理了挂错词性的词形标注：名词不再显示动词变位，动词不再显示复数",
-  "sha256": "46ebd5618d1f7c1c961b2c5fd2d5e4655a1ab91e593023a772fdb07c8c28a33a",
+  "versionCode": 26100411,
+  "versionName": "1.1004.11",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.11/Lexis-Cilin-1.1004.11-release.apk",
+  "notes": "修复滑动切卡后闪回旧卡的问题，滑动切词更干脆稳定",
+  "sha256": "48fdf18af73cdb433776cbc1c37df9492ef0fd0448393287d9a30e8411a229b7",
   "force": false
 }
