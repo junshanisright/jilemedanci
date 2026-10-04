@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100407,
-  "versionName": "1.1004.7",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.7/Lexis-Cilin-1.1004.7-release.apk",
-  "notes": "卡片翻到背面时改为向下展开，顶部不再移动\n修复小概率滑动后卡片歪在半路、滑不动的问题\n希腊语新增「真人声」发音：在 设置 → 语言包 下载「希腊语·真人声」，单词发音更自然",
-  "sha256": "7d97758a7f19fe4299f36afa3d249de0e8bc4e548224b103a920685622d1b5af",
+  "versionCode": 26100408,
+  "versionName": "1.1004.8",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.8/Lexis-Cilin-1.1004.8-release.apk",
+  "notes": "修复卡片翻到背面时顶部向上顶、盖住进度条的问题：现在顶部纹丝不动，只向下展开\n删除了旧的希腊语语音包：已下载过的用户升级后自动清理，腾出约 63 MB 空间",
+  "sha256": "8f2857a3aecccc184349e7eb4cbc153a2eeec5c490283b6449d059f6c352595a",
   "force": false
 }
