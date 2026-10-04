@@ -1,12 +1,12 @@
 {
-  "versionCode": 26100312,
-  "versionName": "1.1003.12",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.12/Lexis-Cilin-1.1003.12-release.apk",
-  "notes": "本次更新\n\n● 根治「切卡瞬间跳回上一张」\n  滑动松手后卡片弹回正中、过一会儿才换成新词的问题，这次找到了真正的根因：\n  手势代码读到的\"当前卡片标识\"是会话开始时的旧值，导致飞出动画从未真正播放。\n  现在滑动收走卡片的过程完整连贯，松手即飞出、无缝换词。\n\n● 复数与动词变位的安放（卡片正面/背面）\n  正面：名词复数括号缀在词头后，动词变位加括号放在音标下面；\n  背面：与正面同位显示，换卡不再跳动。词形数据增补 2126 条。\n\n● 语音包音质\n  希腊语语音包升级为更清晰的 medium 音质（已装过希腊语包的用户需在\n  设置 → 语言包里重新下载一次，约 60 MB）。",
-  "sha256": "66577e56e9f0b01e382e31a9480ad54e607ca43fe1ae9a1b520e6bdb3f13e1b4",
+  "versionCode": 26100401,
+  "versionName": "1.1004.1",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.1/Lexis-Cilin-1.1004.1-release.apk",
+  "notes": "【修复】进入背诵页时卡片明显\"拉长\"一下的问题\n点开单词页时，卡片不再在转场结束后突然向下撑长——现在从第一帧起就是最终大小。\n\n【新增】翻卡拉伸特效\n翻到背面时卡片轻微拉长、翻回正面时收缩还原；背景堆叠的卡片保持原样不跟随变形。\n\n【改进】德语复数改为词典标记写法\n名词复数不再直接显示完整形式，而是按词典惯例标注：der Baum, -̈e（Bäume）、das Buch, -̈er（Bücher）、der Vater, -̈（Väter）；无复数或只有复数的词显示 o. Pl. / nur Pl.；短语与不规则复数仍显示完整形式。",
+  "sha256": "6c03957ae90bc103fec406c5db57eb70744163c9686a85e22b872ce59e3c848b",
   "force": false,
   "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.12/Lexis-Cilin-1.1003.12-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1003.12/Lexis-Cilin-1.1003.12-release.apk"
+    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.1/Lexis-Cilin-1.1004.1-release.apk",
+    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.1/Lexis-Cilin-1.1004.1-release.apk"
   ]
 }
