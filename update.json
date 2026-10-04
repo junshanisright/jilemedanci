@@ -1,12 +1,8 @@
 {
-  "versionCode": 26100404,
-  "versionName": "1.1004.4",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.4/Lexis-Cilin-1.1004.4-release.apk",
-  "notes": "本次更新集中修复语音与词库文本质量：\n\n1. 修复部分单词发音不正确的问题：近期新增的哲学词汇（约三千余条）此前一直回退到系统合成语音，与离线高清发音不一致；现已重建发音索引，这批词恢复使用离线发音。\n2. 清理了英/德/法扩展词库中一批机器拼凑、译文不通顺的示例句（译文里夹着未翻译的原词），这类句子已删除，只保留真实例句。\n3. 修正了个别例句的中文译文（如 eudaimonia 例句中夹带原词的问题）。\n4. 对全部词库做了一轮文本质量扫描（乱码、括号配对、译文缺失），确保逐句可读。",
-  "sha256": "a14e426b89b652900f988dc2ef782797e36a3ac3e22b7479698263b4ab91887d",
-  "force": false,
-  "apkMirrors": [
-    "https://ghproxy.net/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.4/Lexis-Cilin-1.1004.4-release.apk",
-    "https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.4/Lexis-Cilin-1.1004.4-release.apk"
-  ]
+  "versionCode": 26100405,
+  "versionName": "1.1004.5",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.5/Lexis-Cilin-1.1004.5-release.apk",
+  "notes": "本次更新修复了几处体验问题：\n\n1. 点开单词卡背面或播放键后，语音要等好几秒才出声的问题修复了，现在几乎立即发音。\n2. 希腊语单词发音里的拖长停顿被压缩，听起来不再一顿一顿的。\n3. 翻到卡背时整摞卡片会跟着变高的问题修复了。\n4. 筛选菜单展开后下方多余的大片空白已收窄。\n5. 更新下载时进度条不再来回跳；语言图标整体更精致。",
+  "sha256": "95e8c60f2abf301ccf47d3ef7e2cfe3f8634ddd62975970a6c96402250e04e7b",
+  "force": false
 }
