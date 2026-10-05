@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100601,
-  "versionName": "1.1006.1",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.1/Lexis-Cilin-1.1006.1-release.apk",
-  "notes": "词汇量测试：选语言时不再显示「小李」那一档（它不算难度等级，按你说的忽略）。\n德语：哲学类词条的等级统一到 C1 及以上。\n德语：改正一条拼错的词头（谢绝信：Sagebrief → Absagebrief）。",
-  "sha256": "d24c5165ac2a7da1543b406a7ca96b64b1ff12d694633d9e9b142f6d6acb017e",
+  "versionCode": 26100602,
+  "versionName": "1.1006.2",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.2/Lexis-Cilin-1.1006.2-release.apk",
+  "notes": "词汇量测试的估算重做了：以前明显不准（答对很多却只估出两三千词），现在按词库的真实难度分级来算。\n词汇量测试的题量随语言的等级数变（20–36 道），每一档都会测到，结果更稳定。",
+  "sha256": "ea013e97af9e114f5a3cc1f54114989bbe81a696b2761416ed1b779a9ea55999",
   "force": false
 }
