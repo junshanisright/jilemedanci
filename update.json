@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100503,
-  "versionName": "1.1005.3",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1005.3/Lexis-Cilin-1.1005.3-release.apk",
-  "notes": "修复：滑动卡片偶发卡住不动的问题。\n新增：每日目标可切换「按单词数 / 按时间」，最多 200 个。\n优化：统计页配色更好看；背单词页左上角显示语言自称（English、Deutsch 等）。",
-  "sha256": "e882376c248ccd938e31f7ad09b721fd9c1e7f315a5438ea92502e3aad218b74",
+  "versionCode": 26100504,
+  "versionName": "1.1005.4",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1005.4/Lexis-Cilin-1.1005.4-release.apk",
+  "notes": "修复：滑动卡片偶发卡住不动；部分非名词被误显示复数形式。\n新增：每日目标可切换「按单词数 / 按时间」，最多 200 个。\n优化：统计页配色更好看；背单词页左上角显示语言自称（English、Deutsch 等）。",
+  "sha256": "397b08b15378b6f36553ff1a938159f34e0f6e637e7814861148a2f318b7747b",
   "force": false
 }
