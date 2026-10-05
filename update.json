@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100504,
-  "versionName": "1.1005.4",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1005.4/Lexis-Cilin-1.1005.4-release.apk",
-  "notes": "修复：滑动卡片偶发卡住不动；部分非名词被误显示复数形式。\n新增：每日目标可切换「按单词数 / 按时间」，最多 200 个。\n优化：统计页配色更好看；背单词页左上角显示语言自称（English、Deutsch 等）。",
-  "sha256": "397b08b15378b6f36553ff1a938159f34e0f6e637e7814861148a2f318b7747b",
+  "versionCode": 26100505,
+  "versionName": "1.1005.5",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1005.5/Lexis-Cilin-1.1005.5-release.apk",
+  "notes": "修复：德语词库中非名词被写成大写首字母的问题（如 jung、kriegen、was）。\n优化：设置里希腊语语音包的说明更简洁。",
+  "sha256": "127d6a765f545ca6a0ba28893d86231938b146b60b4ae900bb7e0a5e1f46bc93",
   "force": false
 }
