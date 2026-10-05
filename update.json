@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100602,
-  "versionName": "1.1006.2",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.2/Lexis-Cilin-1.1006.2-release.apk",
-  "notes": "词汇量测试的估算重做了：以前明显不准（答对很多却只估出两三千词），现在按词库的真实难度分级来算。\n词汇量测试的题量随语言的等级数变（20–36 道），每一档都会测到，结果更稳定。",
-  "sha256": "ea013e97af9e114f5a3cc1f54114989bbe81a696b2761416ed1b779a9ea55999",
+  "versionCode": 26100603,
+  "versionName": "1.1006.3",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.3/Lexis-Cilin-1.1006.3-release.apk",
+  "notes": "点「不认识」看完释义后，再点卡片会向左滑出屏幕，不再是瞬间跳到下一张。",
+  "sha256": "bd4bedd1a8eceee28634eccd30b14787cb888d4508d5576d8c576e262efb6a55",
   "force": false
 }
