@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100603,
-  "versionName": "1.1006.3",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.3/Lexis-Cilin-1.1006.3-release.apk",
-  "notes": "点「不认识」看完释义后，再点卡片会向左滑出屏幕，不再是瞬间跳到下一张。",
-  "sha256": "bd4bedd1a8eceee28634eccd30b14787cb888d4508d5576d8c576e262efb6a55",
+  "versionCode": 26100604,
+  "versionName": "1.1006.4",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.4/Lexis-Cilin-1.1006.4-release.apk",
+  "notes": "修复点击/滑动换卡时卡片偶发卡在半路的问题。\n修复每日目标切换到「数量」后进度条不再走动的问题：现在复习和重学的卡也计入今日进度。",
+  "sha256": "0d78e2d8576a8a2aafbcd2bcd83fabbff028e2ee2e5a9d4e6a9aed00b2c98ee5",
   "force": false
 }
