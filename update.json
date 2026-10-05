@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100604,
-  "versionName": "1.1006.4",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.4/Lexis-Cilin-1.1006.4-release.apk",
-  "notes": "修复点击/滑动换卡时卡片偶发卡在半路的问题。\n修复每日目标切换到「数量」后进度条不再走动的问题：现在复习和重学的卡也计入今日进度。",
-  "sha256": "0d78e2d8576a8a2aafbcd2bcd83fabbff028e2ee2e5a9d4e6a9aed00b2c98ee5",
+  "versionCode": 26100605,
+  "versionName": "1.1006.5",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.5/Lexis-Cilin-1.1006.5-release.apk",
+  "notes": "现在可以点例句和固定搭配听发音了：点外文原文会朗读该句，点中文翻译不出声。",
+  "sha256": "c08683be277956fb3bf0a442a0e441f652e2886218c569a0f37d07677ce17dab",
   "force": false
 }
