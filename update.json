@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100505,
-  "versionName": "1.1005.5",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1005.5/Lexis-Cilin-1.1005.5-release.apk",
-  "notes": "修复：德语词库中非名词被写成大写首字母的问题（如 jung、kriegen、was）。\n优化：设置里希腊语语音包的说明更简洁。",
-  "sha256": "127d6a765f545ca6a0ba28893d86231938b146b60b4ae900bb7e0a5e1f46bc93",
+  "versionCode": 26100600,
+  "versionName": "1.1006.0",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.0/Lexis-Cilin-1.1006.0-release.apk",
+  "notes": "新增「词汇量测试」：统计页底部进去，选一门语言，做约 24 道题，估出词汇量并推荐从哪个等级开始背。\n完成今日学习目标时会放一段烟花庆祝（三秒后自动消失，不挡操作）。\n德语词库修了一批错误（词性、复数写法、变音符）并按最新分级表重排了等级；搜索页去掉语种文字、词性挪到单词后面。",
+  "sha256": "cb791dd9c7391098417002182fd211a824bf46ad3ff83cb2a0524ae0ed5d851d",
   "force": false
 }
