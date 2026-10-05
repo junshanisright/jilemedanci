@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100414,
-  "versionName": "1.1004.14",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1004.14/Lexis-Cilin-1.1004.14-release.apk",
-  "notes": "修复：滑动换卡时卡片会先停住约半秒、之后才突然换词 —— 现在松手即飞出，换词顺畅。",
-  "sha256": "482620f7a269f2746172bd16ca6d1388da19ed3b089135c596b0f9662bf7eb0c",
+  "versionCode": 26100501,
+  "versionName": "1.1005.1",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1005.1/Lexis-Cilin-1.1005.1-release.apk",
+  "notes": "修复：滑动几张卡片后，点击卡片不再翻面的问题。\n词库补充：多语种的搭配与例句更丰富。",
+  "sha256": "427ab2f325a96fde46f7ced71268daa45cf22d203b6ab19e2781121ce30cd514",
   "force": false
 }
