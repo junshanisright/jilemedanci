@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100609,
-  "versionName": "1.1006.9",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.9/Lexis-Cilin-1.1006.9-release.apk",
-  "notes": "新增德语词典：设置页可一键下载（约 10.9 万词，名词带 der/die/das）。\n网页版同步支持词典下载。",
-  "sha256": "74d61d574a5086150760c1f0221a1144f1993fc77d12bb0c6ea7c42da60294f5",
+  "versionCode": 26100610,
+  "versionName": "1.1006.10",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.10/Lexis-Cilin-1.1006.10-release.apk",
+  "notes": "新增法语词典：设置页可一键下载（约 5 万词）。\n词库「用法」里的错字、断字残留、与单词无关的文字已清理。\n设置页：语音包、词典资源一行内显示「语言包」「已安装 N 种」。",
+  "sha256": "db75989ef8baf1e693369af96a9328da45d65fe0dd23ae7875873e33fd6b7fec",
   "force": false
 }
