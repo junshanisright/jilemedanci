@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100607,
-  "versionName": "1.1006.7",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.7/Lexis-Cilin-1.1006.7-release.apk",
-  "notes": "语种图标改用与网页版一致的国旗：英语🇬🇧、德语🇩🇪、法语🇫🇷、日语🇯🇵、梵语🕉️（拉丁/古希腊人物像不变）。",
-  "sha256": "f16e6b80f4e9f60615603b69cb6ed75fb96818fd50166dee0d3c1176d86b648a",
+  "versionCode": 26100608,
+  "versionName": "1.1006.8",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.8/Lexis-Cilin-1.1006.8-release.apk",
+  "notes": "搜索体验优化：点开单词详情更流畅，不再卡顿。\n设置页：「词典资源」已移入「语言资源」分类下。\n新增英语词典：设置页可一键下载牛津韦氏英汉双解词库（约 4.9 万词）。",
+  "sha256": "f01601f39ab17bce8c56ed2c02ec74fb0f62b5f89d28959641aa00c51421a243",
   "force": false
 }
