@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100606,
-  "versionName": "1.1006.6",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.6/Lexis-Cilin-1.1006.6-release.apk",
-  "notes": "修复两个问题：首页\"to learn\"数字现在和卡片页进度一样会把复习算进去；搜索、生词本、收藏里点开词条后，点例句和固定搭配的原文也能朗读了。\n语录库新增 67 条西方哲学名言（原文＋中译＋出处），开屏和首页的语录池从 68 条扩到 135 条。",
-  "sha256": "f94b46e97aac55e436eccb729d2806ff09cd4cb4b167bbac3dd2af92a1b74491",
+  "versionCode": 26100607,
+  "versionName": "1.1006.7",
+  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.7/Lexis-Cilin-1.1006.7-release.apk",
+  "notes": "语种图标改用与网页版一致的国旗：英语🇬🇧、德语🇩🇪、法语🇫🇷、日语🇯🇵、梵语🕉️（拉丁/古希腊人物像不变）。",
+  "sha256": "f16e6b80f4e9f60615603b69cb6ed75fb96818fd50166dee0d3c1176d86b648a",
   "force": false
 }
