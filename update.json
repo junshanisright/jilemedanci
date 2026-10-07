@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100611,
-  "versionName": "1.1006.11",
-  "apkUrl": "https://gh-proxy.com/https://github.com/junshanisright/jilemedanci/releases/download/v1.1006.11/Lexis-Cilin-1.1006.11-release.apk",
-  "notes": "滑动判定恢复：卡片只需轻轻拖动一小段即可划走，不再需要拖到屏幕一半。",
-  "sha256": "2edc3bac401098926a267af80a3c046dca8f8bba9566657d99213580c046897b",
+  "versionCode": 26100612,
+  "versionName": "1.1006.12",
+  "apkUrl": "https://jileme-1499142858.cos.ap-nanjing.myqcloud.com/Lexis-Cilin-1.1006.12-release.apk",
+  "notes": "滑动更顺了：拖动卡片时不再偶尔掉帧。\n新增古希腊语词典（约 2.6 万词，可在「词典」里下载）。\n更新包改为国内腾讯云加速下载。",
+  "sha256": "229b1834a8c25e4f1feef59bc6e99bab50ed9372739e6e2e95a6f30afaf898be",
   "force": false
 }
