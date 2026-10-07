@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100613,
-  "versionName": "1.1006.13",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1006.13-release.apk",
-  "notes": "更新检查与下载改走国内 WorkBuddy 托管，解决更新服务器返回异常。",
-  "sha256": "07bbf240aa87f1e553a151c1d39e3893cfd030ddb3af2392f07149a7dc77cdb9",
+  "versionCode": 26100614,
+  "versionName": "1.1006.14",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1006.14-release.apk",
+  "notes": "滑动卡片新手感：拖动时卡片会先倾斜，松手后斜着飞出屏幕（左滑向左倒、右滑向右倒）。",
+  "sha256": "506f78251c42a587eb38a417285df89a7b07e8edbac12c5852cc9834d884261b",
   "force": false
 }
