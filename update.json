@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100616,
-  "versionName": "1.1006.16",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1006.16-release.apk",
-  "notes": "德语复数的变音符现在正确显示在「-」号上：der Wald, -¨er、der Kunst, -¨e。",
-  "sha256": "4885f1bb0d1ecd0bd2099ec222f76617bb7be377681ae36cbcff6daf9aa30083",
+  "versionCode": 26100700,
+  "versionName": "1.1007.0",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1007.0-release.apk",
+  "notes": "西班牙语、韩语正式上线，可直接选择学习。\n新增四千七百多个英语词，均已按难度和常用度定级。\n修正英语词频显示异常，以及每次启动多余的词库加载。",
+  "sha256": "9ad8f182853f70121dbbe6ed3b350183a99c46c766c410fbb1773894de73a0d2",
   "force": false
 }
