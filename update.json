@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100615,
-  "versionName": "1.1006.15",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1006.15-release.apk",
-  "notes": "滑动跟手更顺了：卡片转动改成分档进行，拖动时的卡顿感消除，转动效果保持不变。",
-  "sha256": "542d714e1245bbd7a46bbc59c67c6110c1e41d2f23478744f4f5f19be9f00e9d",
+  "versionCode": 26100616,
+  "versionName": "1.1006.16",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1006.16-release.apk",
+  "notes": "德语复数的变音符现在正确显示在「-」号上：der Wald, -¨er、der Kunst, -¨e。",
+  "sha256": "4885f1bb0d1ecd0bd2099ec222f76617bb7be377681ae36cbcff6daf9aa30083",
   "force": false
 }
