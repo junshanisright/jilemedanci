@@ -1,8 +1,0 @@
-{
-  "versionCode": 26100612,
-  "versionName": "1.1006.12",
-  "apkUrl": "https://jileme-1499142858.cos.ap-nanjing.myqcloud.com/Lexis-Cilin-1.1006.12-release.apk",
-  "notes": "滑动更顺了：拖动卡片时不再偶尔掉帧。\n新增古希腊语词典（约 2.6 万词，可在「词典」里下载）。\n更新包改为国内腾讯云加速下载。",
-  "sha256": "229b1834a8c25e4f1feef59bc6e99bab50ed9372739e6e2e95a6f30afaf898be",
-  "force": false
-}
