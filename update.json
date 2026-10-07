@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100700,
-  "versionName": "1.1007.0",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1007.0-release.apk",
-  "notes": "西班牙语、韩语正式上线，可直接选择学习。\n新增四千七百多个英语词，均已按难度和常用度定级。\n修正英语词频显示异常，以及每次启动多余的词库加载。",
-  "sha256": "9ad8f182853f70121dbbe6ed3b350183a99c46c766c410fbb1773894de73a0d2",
+  "versionCode": 26100701,
+  "versionName": "1.1007.1",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1007.1-release.apk",
+  "notes": "修正德语词库里的错字，如「治疗」「视力」被识别成别字。",
+  "sha256": "bb2ee3dad2fb24d8b165975f1f05447b3f52518d15eea16a4f90b771d4ae4222",
   "force": false
 }
