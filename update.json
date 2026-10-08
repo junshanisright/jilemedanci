@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100805,
-  "versionName": "1.1008.5",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1008.5-release.apk",
-  "notes": "搜索按相关度排序，最相关的单词排最上面。\n换排序不再让单词从头开始；到期的复习词会优先出现。\n第一张卡片仍不能右滑，滑过一张之后可以随时退回上一张。",
-  "sha256": "cd19cadd30776978fbaf6f75b4d15f16ec038dfe8dee7b5021b2277774a4f26a",
+  "versionCode": 26100806,
+  "versionName": "1.1008.6",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1008.6-release.apk",
+  "notes": "向右滑的判断改由学习进度直接决定，不会再出现「翻回第一张还能继续右滑」。\n第一张卡片一律不能右滑；滑过任何一张之后，向右滑都能退回上一张。",
+  "sha256": "aeb598e0c1116d66445645b58727bbcdb1c23a40de2c2014987431faeed31810",
   "force": false
 }
