@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100701,
-  "versionName": "1.1007.1",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1007.1-release.apk",
-  "notes": "修正德语词库里的错字，如「治疗」「视力」被识别成别字。",
-  "sha256": "bb2ee3dad2fb24d8b165975f1f05447b3f52518d15eea16a4f90b771d4ae4222",
+  "versionCode": 26100801,
+  "versionName": "1.1008.1",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1008.1-release.apk",
+  "notes": "新增意大利语词库，带真人发音。\n修复搜索页右上角语种筛选一点就闪退的问题。",
+  "sha256": "a10a1d92b7db50306f71229d8732d710e1ef1d60bd64bd6ebdee674ea8b4166a",
   "force": false
 }
