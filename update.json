@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100802,
-  "versionName": "1.1008.2",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1008.2-release.apk",
-  "notes": "英语词库大幅扩充，新增七千多个常用词。\n修复意大利语词条释义里的错别字。",
-  "sha256": "5c81789b7bc533d0a0ab6365a4e857380a90536d73669346e8e7b1bb977058f3",
+  "versionCode": 26100804,
+  "versionName": "1.1008.4",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1008.4-release.apk",
+  "notes": "换排序不再让单词从头开始，学习进度会保留；到期的复习词会优先出现。\n第一张卡片不能再向右滑动。\n搜索按相关度排序，最相关的单词排在最上面。",
+  "sha256": "b85c21cc96d62fc014994ab6673b141577703d90427131a6d7d02d6dea3a7b46",
   "force": false
 }
