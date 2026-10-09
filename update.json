@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100806,
-  "versionName": "1.1008.6",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1008.6-release.apk",
-  "notes": "向右滑的判断改由学习进度直接决定，不会再出现「翻回第一张还能继续右滑」。\n第一张卡片一律不能右滑；滑过任何一张之后，向右滑都能退回上一张。",
-  "sha256": "aeb598e0c1116d66445645b58727bbcdb1c23a40de2c2014987431faeed31810",
+  "versionCode": 26100903,
+  "versionName": "1.1009.3",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1009.3-release.apk",
+  "notes": "每日一句：补齐法语 100 句的句读与生词；生词可长按加入收藏；语言切换显示国旗，并移除了多余的换一批按钮。",
+  "sha256": "53f57c8cbd3a6b3ad977686de9f61511b62fbcc31ab676e3b8e99fcbd5e5cc29",
   "force": false
 }
