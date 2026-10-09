@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100905,
-  "versionName": "1.1009.5",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1009.5-release.apk",
-  "notes": "增加软件完整性保护：被篡改或非官方修改的安装包将拒绝运行，更新仅从官方渠道安装。",
-  "sha256": "e75e12d5ce0c8082c46ce12a2bd77d1d6b0b5e6268090c7562c19cef211bbe6d",
+  "versionCode": 26100906,
+  "versionName": "1.1009.6",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1009.6-release.apk",
+  "notes": "语音包下载源迁至国内服务器，下载更稳定，不再依赖第三方镜像。",
+  "sha256": "f287cac6750ce5a50d9bc1c93ab082df26efb58821c2724f4f7f2054d1699dcf",
   "force": false
 }
