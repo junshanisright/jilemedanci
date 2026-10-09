@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100903,
-  "versionName": "1.1009.3",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1009.3-release.apk",
-  "notes": "每日一句：补齐法语 100 句的句读与生词；生词可长按加入收藏；语言切换显示国旗，并移除了多余的换一批按钮。",
-  "sha256": "53f57c8cbd3a6b3ad977686de9f61511b62fbcc31ab676e3b8e99fcbd5e5cc29",
+  "versionCode": 26100904,
+  "versionName": "1.1009.4",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1009.4-release.apk",
+  "notes": "每日一句：新增哲学长难句素材（英/德/法）。\n德语名词补全冠词与大小写；修复法语个别字符显示异常。",
+  "sha256": "b0100a2623a56b7fe6610e06fd79dfa1ea8bd0002fb32dde56705d09ab77fb9f",
   "force": false
 }
