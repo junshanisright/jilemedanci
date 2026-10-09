@@ -1,8 +1,8 @@
 {
-  "versionCode": 26100904,
-  "versionName": "1.1009.4",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1009.4-release.apk",
-  "notes": "每日一句：新增哲学长难句素材（英/德/法）。\n德语名词补全冠词与大小写；修复法语个别字符显示异常。",
-  "sha256": "b0100a2623a56b7fe6610e06fd79dfa1ea8bd0002fb32dde56705d09ab77fb9f",
+  "versionCode": 26100905,
+  "versionName": "1.1009.5",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1009.5-release.apk",
+  "notes": "增加软件完整性保护：被篡改或非官方修改的安装包将拒绝运行，更新仅从官方渠道安装。",
+  "sha256": "e75e12d5ce0c8082c46ce12a2bd77d1d6b0b5e6268090c7562c19cef211bbe6d",
   "force": false
 }
