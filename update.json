@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101108,
-  "versionName": "1.1009.8",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1009.8-release.apk",
-  "notes": "新增匿名使用统计（仅用于了解有多少人在用，不含任何个人信息，不上传设备标识）。",
-  "sha256": "be523eea10342c9c1a3d53c947eeedc8e2bbb010eb26c5f816dc387ecd4d83ac",
+  "versionCode": 26101109,
+  "versionName": "1.1009.9",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1009.9-release.apk",
+  "notes": "每日一句：选语言后按钮显示该语言旗帜，朗读更慢并在逗号、句号间加入停顿。\n播放键改为喇叭图标；下方新增「必学语法」入口。\n收藏夹：生词并入普通单词，句子区块去掉标题文字。",
+  "sha256": "462f22108d9f701ae4aa10f00708d541b55c2bea56351555f449c88fbe192712",
   "force": false
 }
