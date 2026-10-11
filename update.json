@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101107,
-  "versionName": "1.1009.7",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1009.7-release.apk",
-  "notes": "朗读长句时语速会按句子长度自动调慢，长句不再赶着念。",
-  "sha256": "a94a57df38c966fd9f4874d3444cd98f1cf7b013dba64aefe08f656e7565e812",
+  "versionCode": 26101108,
+  "versionName": "1.1009.8",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1009.8-release.apk",
+  "notes": "新增匿名使用统计（仅用于了解有多少人在用，不含任何个人信息，不上传设备标识）。",
+  "sha256": "be523eea10342c9c1a3d53c947eeedc8e2bbb010eb26c5f816dc387ecd4d83ac",
   "force": false
 }
