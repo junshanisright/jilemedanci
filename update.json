@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101201,
-  "versionName": "1.1013.0",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1013.0-release.apk",
-  "notes": "新增英文词汇量测试：自适应评估你的英语词汇量，并给出对应的 CEFR 等级与区间。",
-  "sha256": "708bf621cf2af7ef8361640f026ebe5590f5b8852e39235e264b5d0923ccf044",
+  "versionCode": 26101301,
+  "versionName": "1.1014.1",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1014.1-release.apk",
+  "notes": "探索页新增「必学语法」：8 个语种的语法讲解，按主题分类、带例句，可随时切换语种。",
+  "sha256": "6e16b6e72a009eea48ca763bb3b9a39b9091bbb5122afafdabd851f53f7d84b1",
   "force": false
 }
