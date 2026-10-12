@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101110,
-  "versionName": "1.1011.0",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1011.0-release.apk",
-  "notes": "首装词库加载更快。\n每日一句的句子和生词都能收藏进收藏夹，生词收藏与单词形式一致。\n修复每日一句播放跳过句子的问题。",
-  "sha256": "0918f0151d532a45b0035e843fa0842985b39a811e414687bdef9cbd2baf9238",
+  "versionCode": 26101200,
+  "versionName": "1.1012.0",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1012.0-release.apk",
+  "notes": "意大利语词库释义中的识别错字已修正。",
+  "sha256": "2114d816b1c92960e5141b228d94e3d760da13a45915a6203e641d2a77afd5eb",
   "force": false
 }
