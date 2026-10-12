@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101200,
-  "versionName": "1.1012.0",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1012.0-release.apk",
-  "notes": "意大利语词库释义中的识别错字已修正。",
-  "sha256": "2114d816b1c92960e5141b228d94e3d760da13a45915a6203e641d2a77afd5eb",
+  "versionCode": 26101201,
+  "versionName": "1.1013.0",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1013.0-release.apk",
+  "notes": "新增英文词汇量测试：自适应评估你的英语词汇量，并给出对应的 CEFR 等级与区间。",
+  "sha256": "708bf621cf2af7ef8361640f026ebe5590f5b8852e39235e264b5d0923ccf044",
   "force": false
 }
