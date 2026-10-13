@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101303,
-  "versionName": "1.1014.3",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1014.3-release.apk",
-  "notes": "点「不认识」看完善释后，再点卡片会向左滑出到下一张，不再一闪就没。\n左滑划走卡片时不再快速淡出，滑动过程完整看得见。",
-  "sha256": "8f3a2a3ed3e1499d1b0d9aab782ef0211372445dc0708c836d4246b63f9a9e35",
+  "versionCode": 26101404,
+  "versionName": "1.1014.4",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1014.4-release.apk",
+  "notes": "探索页新增「词性大挑战」小游戏：德/法/古希腊语单词从上方掉落，抢在落地前选对冠词。\n新增账号登录与多端同步（设置页→账号）：登录后复习进度、收藏与生词本自动同步。",
+  "sha256": "4eaa6ef20fdaad210794c687d40fec64ac4900210eccab0e3dbaceaea699cf7b",
   "force": false
 }
