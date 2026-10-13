@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101404,
-  "versionName": "1.1014.4",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1014.4-release.apk",
-  "notes": "探索页新增「词性大挑战」小游戏：德/法/古希腊语单词从上方掉落，抢在落地前选对冠词。\n新增账号登录与多端同步（设置页→账号）：登录后复习进度、收藏与生词本自动同步。",
-  "sha256": "4eaa6ef20fdaad210794c687d40fec64ac4900210eccab0e3dbaceaea699cf7b",
+  "versionCode": 26101405,
+  "versionName": "1.1014.5",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1014.5-release.apk",
+  "notes": "修复账号登录：验证码输入正确却提示登录失败的问题。\n词性大挑战：进入游戏前先选语种（德语/法语/古希腊语），界面焕然一新。",
+  "sha256": "19a8331384f67efb4f61e2c66cd2c6bf22c9b6313ba27fbeaeca019ad4d25850",
   "force": false
 }
