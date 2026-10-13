@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101302,
-  "versionName": "1.1014.2",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1014.2-release.apk",
-  "notes": "「必学语法」新增韩语、意大利语。\n语法页语种菜单加国旗，一眼认出当前语种。\n网页版上线必学语法（探索页入口）。",
-  "sha256": "c7260b29bf5b15be2c0ada77473ee200e31fe7c0a81a949bb6e6d54cdc3032ab",
+  "versionCode": 26101303,
+  "versionName": "1.1014.3",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1014.3-release.apk",
+  "notes": "点「不认识」看完善释后，再点卡片会向左滑出到下一张，不再一闪就没。\n左滑划走卡片时不再快速淡出，滑动过程完整看得见。",
+  "sha256": "8f3a2a3ed3e1499d1b0d9aab782ef0211372445dc0708c836d4246b63f9a9e35",
   "force": false
 }
