@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101405,
-  "versionName": "1.1014.5",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1014.5-release.apk",
-  "notes": "修复账号登录：验证码输入正确却提示登录失败的问题。\n词性大挑战：进入游戏前先选语种（德语/法语/古希腊语），界面焕然一新。",
-  "sha256": "19a8331384f67efb4f61e2c66cd2c6bf22c9b6313ba27fbeaeca019ad4d25850",
+  "versionCode": 26101406,
+  "versionName": "1.1014.6",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1014.6-release.apk",
+  "notes": "修复邮箱登录：App 端现在也能正常登录了。",
+  "sha256": "d537c7a516dee7280ad6e725d2f07bd743c52eb656aac38b69b5ea823c9b3d5a",
   "force": false
 }
