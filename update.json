@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101407,
-  "versionName": "1.1014.7",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1014.7-release.apk",
-  "notes": "必学语法：记住上次选的语种；新增知识导图，动词变位、名词变格等要点补了表格。\n探索页：下拉刷新时，转圈标志现在看得见了。",
-  "sha256": "748667394d8b8de43974ab1ab23fc845773bb57ac811f62252168c84d9d3c744",
+  "versionCode": 26101408,
+  "versionName": "1.1014.8",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1014.8-release.apk",
+  "notes": "词性大挑战：题库从约 150 词扩充到 1300+ 词（德 500 / 法 450 / 古希 400），更耐玩。",
+  "sha256": "360dae88621a83aa5214131d600a698db7706e064a0afbd18c3d424db8cfbde9",
   "force": false
 }
