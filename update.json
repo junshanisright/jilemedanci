@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101502,
-  "versionName": "1.1015.2",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1015.2-release.apk",
-  "notes": "修复：单词卡片无法滑动的问题。",
-  "sha256": "e2bded0ec05f58ca27b96a0edc9cbb6283838198f45f1ef91b08b1e910ebf2da",
+  "versionCode": 26101503,
+  "versionName": "1.1015.3",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1015.3-release.apk",
+  "notes": "德语发音更清晰：ich、nicht 这类词的 ch 不再被吞掉\n修复：语音包文件损坏时无法自动恢复的问题",
+  "sha256": "5ee648434e9052340f120f80e51cb6195d6347c9f6df3c98e63e92ce0612d0e4",
   "force": false
 }
