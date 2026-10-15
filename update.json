@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101501,
-  "versionName": "1.1015.1",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1015.1-release.apk",
-  "notes": "新增：拉丁语词性大挑战；德语 ch 组合发音更准。\n修复：卡片翻面后偶尔滑不动；弱网下登录被误退出；词库 130 处错字与乱码释义。\n探索页：下拉出现刷新标志即刷新，语言配色更亮更好认，词汇量测试选语种页焕新。",
-  "sha256": "cd87d173ccb918580f9f8f768772ca8d22cf8f809925ae84241112f1c18ee502",
+  "versionCode": 26101502,
+  "versionName": "1.1015.2",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1015.2-release.apk",
+  "notes": "修复：单词卡片无法滑动的问题。",
+  "sha256": "e2bded0ec05f58ca27b96a0edc9cbb6283838198f45f1ef91b08b1e910ebf2da",
   "force": false
 }
