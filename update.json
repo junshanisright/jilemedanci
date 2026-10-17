@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101701,
-  "versionName": "1.1017.1",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1017.1-release.apk",
-  "notes": "新单词出现的瞬间自动朗读，不再需要手动开启\n带定冠词的词（如 das Zoll）会连同冠词一起朗读，搜索结果也能单独点播\n德语发音更清晰：德语语音包已更新为更高质量模型",
-  "sha256": "f16232014dc34256b65172c12ec70884264170a14012273aaa48dae98d1a16c9",
+  "versionCode": 26101801,
+  "versionName": "1.1018.1",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1018.1-release.apk",
+  "notes": "登录同一账号，学习进度、收藏、生词本和设置（主题/每日量/排序/筛选）现在会在手机与网页之间自动同步。",
+  "sha256": "aa353be9fc300fc7eb0093fbc0e71b29a4edeadc1eccaff143934c27f6bf3142",
   "force": false
 }
