@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101503,
-  "versionName": "1.1015.3",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1015.3-release.apk",
-  "notes": "德语发音更清晰：ich、nicht 这类词的 ch 不再被吞掉\n修复：语音包文件损坏时无法自动恢复的问题",
-  "sha256": "5ee648434e9052340f120f80e51cb6195d6347c9f6df3c98e63e92ce0612d0e4",
+  "versionCode": 26101701,
+  "versionName": "1.1017.1",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1017.1-release.apk",
+  "notes": "新单词出现的瞬间自动朗读，不再需要手动开启\n带定冠词的词（如 das Zoll）会连同冠词一起朗读，搜索结果也能单独点播\n德语发音更清晰：德语语音包已更新为更高质量模型",
+  "sha256": "f16232014dc34256b65172c12ec70884264170a14012273aaa48dae98d1a16c9",
   "force": false
 }
