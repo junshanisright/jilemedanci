@@ -2,7 +2,7 @@
   "versionCode": 26101900,
   "versionName": "1.1019.0",
   "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1019.0-release.apk",
-  "notes": "全新「液态玻璃」界面：卡片、导航、按钮全面焕新。\n输入框与控件统一圆角，评分按键更立体。",
-  "sha256": "148265afd092b2e8a0d483c7d27a6240ee1ac3c57cc1f415bba41afe0e39c50f",
+  "notes": "全新「液态玻璃」界面：卡片、导航、按钮全面焕新。\n登录永不掉线：更新、断网都不会退出账号。\n输入框与控件统一圆角，评分按键更立体。",
+  "sha256": "14edffb04ad992ae6c121c500fa1a66d6a97068e9b8944d3eec8a0662efc330e",
   "force": false
 }
