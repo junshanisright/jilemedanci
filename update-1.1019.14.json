@@ -1,0 +1,8 @@
+{
+  "versionCode": 26101914,
+  "versionName": "1.1019.14",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1019.14-release.apk",
+  "notes": "词库缺失会自动重新灌入，等几十秒即可恢复。",
+  "sha256": "2c830509b163a744827ef83fed43b853b042cc6359ab1fe61b1ab68430aaaa4b",
+  "force": false
+}
