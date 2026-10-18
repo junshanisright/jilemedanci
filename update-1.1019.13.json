@@ -1,0 +1,8 @@
+{
+  "versionCode": 26101913,
+  "versionName": "1.1019.13",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1019.13-release.apk",
+  "notes": "修复学习页可能卡死的问题。\\n组件边框稍微加明显，词库数据不受影响。",
+  "sha256": "6b1df79c0b6191839d58c96d7cae01b2d10cfcb0c8db2b1d9961432087d5e98b",
+  "force": false
+}
