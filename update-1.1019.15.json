@@ -1,0 +1,8 @@
+{
+  "versionCode": 26101915,
+  "versionName": "1.1019.15",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1019.15-release.apk",
+  "notes": "修复：待学和到期都为 0 时仍可继续学习（自动抽词复习）。",
+  "sha256": "1a7f08bf76a6b2e44d0b080c278ee47377a68c4b515937c3e5a2a203ca3c9ad8",
+  "force": false
+}
