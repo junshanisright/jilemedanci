@@ -1,0 +1,8 @@
+{
+  "versionCode": 26101908,
+  "versionName": "1.1019.8",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1019.8-release.apk",
+  "notes": "修复全部页面背景被白色底遮住的问题，毛玻璃底现在真正可见。\\n学习页翻卡更流畅。",
+  "sha256": "0e6810fabfaafcf12f13c1c6cdd11b8dfc10ce1fba56c80482e30fd47a352cb9",
+  "force": false
+}
