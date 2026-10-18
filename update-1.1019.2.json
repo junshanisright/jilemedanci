@@ -1,0 +1,8 @@
+{
+  "versionCode": 26101902,
+  "versionName": "1.1019.2",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1019.2-release.apk",
+  "notes": "修复学习页卡片文字重叠显示异常。",
+  "sha256": "21befb2fae28862163288a4b8307f0c41119a89c88acf9ccacd420e40df0da47",
+  "force": false
+}
