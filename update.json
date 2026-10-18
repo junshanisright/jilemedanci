@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101802,
-  "versionName": "1.1018.2",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1018.2-release.apk",
-  "notes": "修复部分场景下设置同步失败的问题。",
-  "sha256": "95fc100018e3f715ffdb5bb150e65e7c1290925d48c251c52a2db14f8c790313",
+  "versionCode": 26101803,
+  "versionName": "1.1018.3",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1018.3-release.apk",
+  "notes": "更新后不再需要重新登录：凭据过期会自动续期；万一过期，重新验证时邮箱已自动填好。",
+  "sha256": "965d7ea8eef06dba6c7b77fcd6eef581205bf346e7efdd36200af22fd20dcfd3",
   "force": false
 }
