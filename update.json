@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101801,
-  "versionName": "1.1018.1",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1018.1-release.apk",
-  "notes": "登录同一账号，学习进度、收藏、生词本和设置（主题/每日量/排序/筛选）现在会在手机与网页之间自动同步。",
-  "sha256": "aa353be9fc300fc7eb0093fbc0e71b29a4edeadc1eccaff143934c27f6bf3142",
+  "versionCode": 26101802,
+  "versionName": "1.1018.2",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1018.2-release.apk",
+  "notes": "修复部分场景下设置同步失败的问题。",
+  "sha256": "95fc100018e3f715ffdb5bb150e65e7c1290925d48c251c52a2db14f8c790313",
   "force": false
 }
