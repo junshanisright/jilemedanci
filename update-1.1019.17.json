@@ -1,0 +1,8 @@
+{
+  "versionCode": 26101917,
+  "versionName": "1.1019.17",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1019.17-release.apk",
+  "notes": "玻璃卡片四条边都有边框了（此前左右两侧没有）。\\n同步失败时会显示具体原因，便于排查。",
+  "sha256": "f4b9cb94e2e47d8ade2856b6760c534c00ae507cb9d84eb944b5c4a39d0b54a1",
+  "force": false
+}
