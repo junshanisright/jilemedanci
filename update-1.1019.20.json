@@ -1,0 +1,8 @@
+{
+  "versionCode": 26101920,
+  "versionName": "1.1019.20",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1019.20-release.apk",
+  "notes": "同步失败时显示服务端返回的具体原因。",
+  "sha256": "0494c82087f948845319b9ed6b6029da01f933250f4d9141b66c362f64e2beaf",
+  "force": false
+}
