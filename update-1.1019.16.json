@@ -1,0 +1,8 @@
+{
+  "versionCode": 26101916,
+  "versionName": "1.1019.16",
+  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1019.16-release.apk",
+  "notes": "修复横竖屏切换后底栏图标漂移。\\n组件边框更清晰。",
+  "sha256": "cf31068f6cfccee6050aa7f387cfde7dfb4f8ae2a057b7fd271bb9ef7f8bffe2",
+  "force": false
+}
