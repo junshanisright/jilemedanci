@@ -1,8 +1,8 @@
 {
-  "versionCode": 26111101,
-  "versionName": "2.1111.1",
-  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v2.1111.1/Lexis-Cilin-2.1111.1-release.apk",
-  "notes": "搜索结果补上音标\n检查更新会同时查主站和 GitHub",
-  "sha256": "247d087780be38e731e4b754f711e7c278aa741044c2970b3644d652e1ac4c04",
+  "versionCode": 26111102,
+  "versionName": "2.1111.2",
+  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v2.1111.2/Lexis-Cilin-2.1111.2-release.apk",
+  "notes": "搜索结果补上音标，列表和卡片都能看到\n法语固定搭配保留原文，补上中文意思",
+  "sha256": "53feb877f5022d20ae6545ba250026744f7fd1bdb32afa287599eddbf3781423",
   "force": false
 }
