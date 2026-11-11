@@ -1,8 +1,8 @@
 {
-  "versionCode": 26101901,
-  "versionName": "1.1019.1",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-1.1019.1-release.apk",
-  "notes": "修复学习页卡片堆叠显示异常。\n顶栏与主按钮融入液态玻璃风格。",
-  "sha256": "250340a6a74c9e3352ed904a5d1c6e5fc6f0ffb1ec844a17b27c5930ed833e36",
+  "versionCode": 26111101,
+  "versionName": "2.1111.1",
+  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v2.1111.1/Lexis-Cilin-2.1111.1-release.apk",
+  "notes": "搜索结果补上音标\n检查更新会同时查主站和 GitHub",
+  "sha256": "247d087780be38e731e4b754f711e7c278aa741044c2970b3644d652e1ac4c04",
   "force": false
 }
