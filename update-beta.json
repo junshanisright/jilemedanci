@@ -1,8 +1,8 @@
 {
-  "versionCode": 26111201,
-  "versionName": "2.1112.1",
-  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v2.1112.1/Lexis-Cilin-2.1112.1-release.apk",
-  "notes": "法语、德语部分单词点喇叭没声音，已修好\n例句朗读遇到生僻词，不再整句静音\n卡片滑不动时恢复更快",
-  "sha256": "626e18c5dc02eaf608ee3186613f57304dc366502986344f57818492f6b30d32",
+  "versionCode": 26111801,
+  "versionName": "2.1118.1",
+  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v2.1118.1/Lexis-Cilin-2.1118.1-release.apk",
+  "notes": "英德法希四部大词典补上大批音标，查词能看到了\n词典内容也有更新，重新下载后生效",
+  "sha256": "123c8f49eb86602cbb780bc26b2978e4950b38fb6ae878b08c3296d9a0523a22",
   "force": false
 }
