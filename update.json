@@ -1,8 +1,8 @@
 {
-  "versionCode": 26111401,
-  "versionName": "2.1114.1",
-  "apkUrl": "https://lexis-cilin.app.workbuddy.host/Lexis-Cilin-2.1114.1-release.apk",
-  "notes": "两万多个西文单词的词源全部重写，来历讲得更清楚\n修掉了一批释义里的错字（比如「奎宁」以前显示成「奎子」）",
-  "sha256": "fa3bce1b295310eb74dde8d6ac75d853077e7d591c3e81c5b3793c8cf4405972",
+  "versionCode": 26111801,
+  "versionName": "2.1118.1",
+  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v2.1118.1/Lexis-Cilin-2.1118.1-release.apk",
+  "notes": "英德法希四部大词典补上大批音标，查词能看到了\n词典内容也有更新，重新下载后生效",
+  "sha256": "123c8f49eb86602cbb780bc26b2978e4950b38fb6ae878b08c3296d9a0523a22",
   "force": false
 }
