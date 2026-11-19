@@ -1,8 +1,8 @@
 {
-  "versionCode": 26111802,
-  "versionName": "2.1118.2",
-  "apkUrl": "https://jileme-1499142858.cos.ap-nanjing.myqcloud.com/releases/lexis-2.1118.2.bin",
-  "notes": "修掉词典里几个显示成乱码的生僻字，释义看得懂了",
-  "sha256": "a5af3c08589381b6a8bff72d21b5b45065208728f9157bb44ed86e727db35277",
+  "versionCode": 26111803,
+  "versionName": "2.1118.3",
+  "apkUrl": "https://jileme-1499142858.cos.ap-nanjing.myqcloud.com/releases/lexis-2.1118.3.bin",
+  "notes": "更新检查改用更稳定的通道，以后更新更及时",
+  "sha256": "3312f1099009f76d829e2bd686b09862814fcaeb6ecc564791db7be0da7f4657",
   "force": false
 }
