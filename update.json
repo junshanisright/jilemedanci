@@ -1,7 +1,7 @@
 {
   "versionCode": 26111802,
   "versionName": "2.1118.2",
-  "apkUrl": "https://github.com/junshanisright/jilemedanci/releases/download/v2.1118.2/Lexis-Cilin-2.1118.2-release.apk",
+  "apkUrl": "https://jileme-1499142858.cos.ap-nanjing.myqcloud.com/releases/lexis-2.1118.2.bin",
   "notes": "修掉词典里几个显示成乱码的生僻字，释义看得懂了",
   "sha256": "a5af3c08589381b6a8bff72d21b5b45065208728f9157bb44ed86e727db35277",
   "force": false
