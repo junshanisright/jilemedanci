@@ -5,8 +5,10 @@
   "description": "西文单词记忆 · 英语 / 法语 / 德语 / 日语",
   "announcement": {
     "enabled": true,
-    "id": "test-1122",
-    "text": "后台测试公告 1122",
+    "id": "author-home-1122",
+    "text": "🌐 访问作者主页",
+    "url": "https://junshan-selfdev.app.workbuddy.host/?sharecode=NWDCFPMCAP",
+    "urlText": "前往",
     "tone": "info"
   }
 }
