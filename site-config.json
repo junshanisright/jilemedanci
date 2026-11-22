@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T14:49:21Z",
+  "updatedAt": "2026-11-22T04:31:07Z",
   "title": "记了么单词",
   "description": "西文单词记忆 · 英语 / 法语 / 德语 / 日语",
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "id": "author-home-1122",
     "text": "🌐 访问作者主页",
     "url": "https://junshan-selfdev.app.workbuddy.host/?sharecode=NWDCFPMCAP",
