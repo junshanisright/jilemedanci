@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T04:31:07Z",
+  "updatedAt": "2026-11-22T04:33:29Z",
   "title": "记了么单词",
   "description": "西文单词记忆 · 英语 / 法语 / 德语 / 日语",
   "announcement": {
@@ -10,5 +10,6 @@
     "url": "https://junshan-selfdev.app.workbuddy.host/?sharecode=NWDCFPMCAP",
     "urlText": "前往",
     "tone": "info"
-  }
+  },
+  "customCss": "/* 作者按钮行间距加大 */\n.thanks-author-row{gap:18px}\n"
 }
