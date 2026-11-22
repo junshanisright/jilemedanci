@@ -4,11 +4,9 @@
   "title": "记了么单词",
   "description": "西文单词记忆 · 英语 / 法语 / 德语 / 日语",
   "announcement": {
-    "enabled": false,
-    "id": "20261119-a",
-    "text": "",
-    "url": "",
-    "urlText": "",
+    "enabled": true,
+    "id": "test-1122",
+    "text": "后台测试公告 1122",
     "tone": "info"
   }
 }
