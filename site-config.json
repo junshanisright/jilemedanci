@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T04:36:49Z",
+  "updatedAt": "2026-11-22T04:42:02Z",
   "title": "记了么单词",
   "description": "西文单词记忆 · 英语 / 法语 / 德语 / 日语",
   "announcement": {
@@ -11,5 +11,5 @@
     "urlText": "前往",
     "tone": "info"
   },
-  "customCss": "/* 作者按钮行间距：24px（与上方宫格留白同量级） */\n.section.thanks-author-row{gap:24px}\n"
+  "customCss": "/* 作者行：取消外层卡片，两个等宽玻璃块（与上方宫格同语汇） */\n.section.thanks-author-row{background:none!important;border:0!important;box-shadow:none!important;padding:0!important;display:grid;grid-template-columns:1fr 1fr;gap:12px}\n.thanks-author-row .thanks-author-btn{width:100%;min-height:52px;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:0 14px;border-radius:var(--shape-m);background:linear-gradient(135deg,var(--lq-tint) 0%,var(--lq-tint-deep) 100%);border:1px solid color-mix(in srgb,var(--lq-rim-hi) 55%,transparent);box-shadow:0 2px 10px #0a0f2814,inset 0 1px 1px var(--lq-rim-hi),inset -1px -1px 1px var(--lq-rim-lo);color:var(--on-surface);font-size:14px;font-weight:600;line-height:1.1;text-decoration:none;transition:border-color .16s ease,transform .12s cubic-bezier(.2,0,0,1)}\n.thanks-author-row .thanks-author-btn:hover{background:linear-gradient(135deg,var(--lq-tint),color-mix(in srgb,var(--primary) 10%,var(--lq-tint-deep)));border-color:color-mix(in srgb,var(--primary) 45%,var(--lq-rim-hi));transform:translateY(-1px)}\n.thanks-author-row .thanks-author-btn:active{transform:none}\n@media (max-width:360px){.section.thanks-author-row{grid-template-columns:1fr}}\n"
 }
